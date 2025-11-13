@@ -1,0 +1,34 @@
+QUESTÃO 32
+Existe um grande número de implementações para algoritmos de ordenação. Um dos fatores a serem considerados, por exemplo, é o número máximo e médio de comparações que são necessárias para ordenar um vetor com **n** elementos. Diz-se também que um algoritmo de ordenação é estável se ele preserva a ordem de elementos que são iguais. Isto é, se tais elementos aparecem na sequência ordenada na mesma ordem em que estão na sequência inicial. Analise o algoritmo abaixo, onde **A** é um vetor e “**i, j, lo e hi**” são índices do vetor:
+**[FIGURA: Pseudocódigo do algoritmo `ordena`. Este é um algoritmo recursivo de ordenação que aceita um vetor `A` e dois índices `lo` (low) e `hi` (high), representando o início e o fim da subseção do vetor a ser ordenada. Se `lo` for menor que `hi`, significa que há mais de um elemento na subseção. A função então chama a sub-rotina `particao(A, lo, hi)` para particionar o vetor e obter a posição `p` do pivô. Em seguida, faz chamadas recursivas para ordenar a subseção à esquerda do pivô (`ordena(A, lo, p - 1)`) e a subseção à direita do pivô (`ordena(A, p + 1, hi)`). Esta estrutura é característica do algoritmo Quicksort.]**
+```
+algoritmo ordena (A, lo, hi)
+ se lo < hi então
+  p := particao(A, lo, hi)
+  ordena(A, lo, p - 1)
+  ordena(A, p + 1, hi)
+```
+**[FIGURA: Pseudocódigo do algoritmo `particao`. Esta função aceita um vetor `A` e os índices `lo` e `hi`. Ela seleciona o último elemento do vetor (`A[hi]`) como o `pivot`. Inicializa um índice `i` com o valor de `lo`. Em seguida, itera com um índice `j` de `lo` até `hi - 1`. Se `A[j]` for menor que o `pivot`, ele troca `A[i]` com `A[j]` e incrementa `i`. Após o laço, troca o elemento `A[i]` com o `pivot` (que está em `A[hi]`). Finalmente, retorna o índice `i`, que é a posição final do pivô após a partição. Este é o esquema de partição de Lomuto, onde o pivô é o último elemento e elementos menores que o pivô são movidos para o início da seção.]**
+```
+algoritmo particao(A, lo, hi)
+ pivot := A[hi]
+ i := lo
+ repita para j := lo até hi - 1
+  se A[j] < pivot então
+   troca A[i] com A[j]
+   i := i + 1
+ troca A[i] com A[hi]
+ return i
+```
+Com relação ao algoritmo apresentado, avalie as afirmações a seguir.
+I. O algoritmo precisa de um espaço adicional O(n) para a pilha de recursão.
+II. O algoritmo apresentado é um algoritmo de ordenação recursivo e estável.
+III. O algoritmo precisa, em média, de O(n log n) comparações para ordenar n itens.
+IV. O uso do primeiro elemento do vetor como “**pivot**” é mais eficiente que usar o último.
+
+É correto apenas o que se afirma em
+A) I e III.
+B) II e IV.
+C) III e IV.
+D) I, II e III.
+E) I, II e IV.

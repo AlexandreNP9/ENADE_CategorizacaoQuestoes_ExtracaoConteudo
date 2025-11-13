@@ -1,0 +1,43 @@
+QUESTÃO 20
+
+Observe o código abaixo escrito na linguagem C.
+**[FIGURA: Código em linguagem C. O código começa com `#include <stdio.h>` na linha 1 e `#define TAM 10` na linha 2. A linha 3 define a função `funcao1` que recebe um vetor de inteiros e um inteiro `v`. Dentro dela, um loop `for` (linhas 5-7) itera de `i = 0` até `TAM-1`. Se `vetor[i]` for igual a `v`, ela retorna `i`. Se o loop terminar sem encontrar `v`, ela retorna `-1` (linha 9). A linha 11 define a função `funcao2` que recebe um vetor de inteiros, um inteiro `v`, e dois inteiros `i` e `f` (representando índices de início e fim). Ela calcula `m = (i + f) / 2` (linha 12). Se `v` for igual a `vetor[m]`, retorna `m` (linhas 13-14). Se `i >= f`, retorna `-1` (linhas 15-16). Se `v > vetor[m]`, chama `funcao2` recursivamente para a metade direita do vetor (`m+1` até `f`) (linhas 17-18). Caso contrário (se `v < vetor[m]`), chama `funcao2` recursivamente para a metade esquerda do vetor (`i` até `m-1`) (linhas 19-20). A função `main` (linha 22) inicializa um vetor `vetor` de tamanho `TAM` com os valores `{1, 3, 5, 7, 9, 11, 13, 15, 17, 19}` (linha 23). A linha 24 imprime o resultado de `funcao1(vetor, 15)` e `funcao2(vetor, 15, 0, TAM-1)` formatado como "%d - %d". A função `main` retorna 0 (linha 25).]**
+1 #include <stdio.h>
+2 #define TAM 10
+3 int funcao1 (int vetor[], int v) {
+4 int i;
+5 for (i = 0; i < TAM; i++) {
+6 if (vetor[i] == v)
+7 return i;
+8 }
+9 return -1;
+10 }
+11 int funcao2 (int vetor[], int v, int i, int f) {
+12 int m = (i + f) / 2;
+13 if (v == vetor[m])
+14 return m;
+15 if (i >= f)
+16 return -1;
+17 if (v > vetor[m])
+18 return funcao2 (vetor, v, m+1, f);
+19 else
+20 return funcao2 (vetor, v, i, m-1);
+21 }
+22 int main () {
+23 int vetor[TAM] = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19};
+24 printf ("%d - %d", funcao1 (vetor, 15), funcao2 (vetor, 15, 0, TAM-1) );
+25 return 0;
+26 }
+
+A respeito das funções implementadas, avalie as afirmações a seguir.
+
+I. O resultado da impressão na linha 24 é: 7 - 7.
+II. A função funcao1, no pior caso, é uma estratégia mais rápida do que a funcao2.
+III. A função funcao2 implementa uma estratégia iterativa na concepção do algoritmo.
+
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.

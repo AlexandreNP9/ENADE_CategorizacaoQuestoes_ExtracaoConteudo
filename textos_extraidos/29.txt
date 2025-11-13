@@ -1,0 +1,22 @@
+QUESTÃO 29
+As operações morfológicas são um conjunto de operações que processam imagens com base em formas. As operações morfológicas aplicam um elemento estruturador B a uma imagem A de entrada e geram uma imagem de saída.
+Em relação às operações morfológicas de Erosão e Dilatação, avalie as afirmações a seguir.
+
+I. Dilatação: À medida que o *kernel* B é aplicado sobre a imagem, calculamos o valor máximo de *pixel* sobreposto por B e substituímos o *pixel* da imagem, na posição do ponto de ancoragem, por esse valor máximo; exemplo:
+**[FIGURA: Um diagrama que ilustra o efeito da dilatação. Uma imagem inicial, representada pela letra cursiva minúscula 'j' em preto com contorno levemente pixelizado, é transformada. Uma seta cinza aponta para a direita, com o texto "Dilatação" escrito acima dela. A imagem resultante é uma versão ligeiramente expandida e engrossada da mesma letra 'j', mantendo a forma geral, mas com preenchimento mais robusto, indicando o crescimento da região de interesse.]**
+
+II. Dilatação: À medida que o *kernel* B é aplicado sobre a imagem, calculamos o valor mínimo de *pixel* sobreposto por B e substituímos o *pixel* da imagem, na posição do ponto de ancoragem, por esse valor máximo; exemplo:
+**[FIGURA: Um diagrama que ilustra o efeito da dilatação. Uma imagem inicial, representada pela letra cursiva minúscula 'j' em preto com contorno levemente pixelizado, é transformada. Uma seta cinza aponta para a direita, com o texto "Dilatação" escrito acima dela. A imagem resultante é uma versão ligeiramente expandida e engrossada da mesma letra 'j', mantendo a forma geral, mas com preenchimento mais robusto, indicando o crescimento da região de interesse.]**
+
+III. Erosão: À medida que o *kernel* B é aplicado sobre a imagem, calculamos o valor máximo de *pixel* sobreposto por B e substituímos o *pixel* da imagem, na posição do ponto de ancoragem, por esse valor máximo; exemplo:
+**[FIGURA: Um diagrama que ilustra o efeito da erosão. Uma imagem inicial, representada pela letra cursiva minúscula 'j' em preto com contorno levemente pixelizado, é transformada. Uma seta cinza aponta para a direita, com o texto "Erosão" escrito acima dela. A imagem resultante é uma versão ligeiramente contraída e afinada da mesma letra 'j', com as bordas externas ligeiramente reduzidas, indicando o encolhimento da região de interesse.]**
+
+IV. Erosão: À medida que o *kernel* B é aplicado sobre a imagem, calculamos o valor mínimo de *pixel* sobreposto por B e substituímos o *pixel* da imagem, na posição do ponto de ancoragem, por esse valor mínimo; exemplo:
+**[FIGURA: Um diagrama que ilustra o efeito da erosão. Uma imagem inicial, representada pela letra cursiva minúscula 'j' em preto com contorno levemente pixelizado, é transformada. Uma seta cinza aponta para a direita, com o texto "Erosão" escrito acima dela. A imagem resultante é uma versão ligeiramente contraída e afinada da mesma letra 'j', com as bordas externas ligeiramente reduzidas, indicando o encolhimento da região de interesse.]**
+
+É correto o que se afirma em
+A I e III, apenas.
+B I e IV, apenas.
+C II e III, apenas.
+D II e IV, apenas.
+E I, II, III e IV.

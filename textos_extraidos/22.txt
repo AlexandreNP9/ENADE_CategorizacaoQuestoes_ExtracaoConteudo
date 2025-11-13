@@ -1,0 +1,35 @@
+QUESTÃO 22
+Uma Organização Não Governamental (ONG), relacionada à causa animal, registra os pets (animais de estimação) amparados por ela, de acordo com o seguinte Diagrama Entidade Relacionamento (DER).
+
+**[FIGURA: Diagrama Entidade Relacionamento (DER) composto por três entidades retangulares (PESSOA, TIPO_PET, PET) e dois relacionamentos losangulares (pertencer, adotar), interconectados com suas respectivas cardinalidades e atributos.
+- A entidade TIPO_PET possui dois atributos: `codigo` (chave primária, indicado por um círculo preto preenchido) e `descricao` (atributo simples, indicado por um círculo branco não preenchido).
+- A entidade PET possui três atributos: `codigo` (chave primária, círculo preto preenchido), `nome` (simples, círculo branco não preenchido) e `data_nascimento` (simples, círculo branco não preenchido).
+- A entidade PESSOA possui dois atributos: `cpf` (chave primária, círculo preto preenchido) e `nome` (simples, círculo branco não preenchido).
+- O relacionamento "pertencer" conecta TIPO_PET e PET. A cardinalidade do lado TIPO_PET para o relacionamento é (1,1), e a cardinalidade do lado PET para o relacionamento é (1,n). Isso indica que cada PET pertence a exatamente um TIPO_PET, e um TIPO_PET pode ter um ou muitos PETs.
+- O relacionamento "adotar" conecta PESSOA e PET. A cardinalidade do lado PESSOA para o relacionamento é (1,1), e a cardinalidade do lado PET para o relacionamento é (0,n). Isso indica que cada PET é adotado por exatamente uma PESSOA, e uma PESSOA pode adotar zero ou muitos PETs.]**
+
+A partir das regras de mapeamento do Modelo Conceitual para o Modelo Lógico Relacional, assinale o Esquema Relacional mais adequado a ser gerado. Considere que as chaves primárias estão sublinhadas.
+
+A PESSOA(**cpf**: texto, nome: texto)
+TIPO_PET(**codigo**: inteiro, descricao: texto)
+PET(**codigo**: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro, adotante: texto)
+codigo_tipo_pet referencia TIPO_PET(codigo)
+adotante referencia PESSOA(cpf)
+
+B PET(**codigo**: inteiro, nome: texto, data_nascimento: data)
+PESSOA(**cpf**: texto, nome: texto, codigo_pet: inteiro)
+codigo_pet referencia PET(codigo)
+TIPO_PET(**codigo**: inteiro, descricao: texto, codigo_pet: inteiro)
+codigo_pet referencia PET(codigo)
+
+C TIPO_PET(**codigo**: inteiro, descricao: texto)
+PET(**codigo**: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro)
+codigo_tipo_pet referencia TIPO_PET(codigo)
+PESSOA(**cpf**: texto, nome: texto, codigo_pet: inteiro)
+codigo_pet referencia PET(codigo)
+
+D PET_PESSOA(**codigo_pet**: inteiro, nome_pet: texto, data_nascimento: data, cpf: texto, nome_pessoa: texto, codigo_tipo_pet: inteiro, descricao_tipo_pet: texto)
+
+E PESSOA(**cpf**: texto, nome: texto)
+PET(**codigo**: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro, descricao_tipo_pet: texto, adotante: texto)
+adotante referencia PESSOA(cpf)

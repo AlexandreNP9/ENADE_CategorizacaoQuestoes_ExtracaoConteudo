@@ -1,0 +1,12 @@
+QUESTÃO 27
+A figura a seguir mostra o histograma de uma amostra composta de 20 000 servidores. O eixo x apresenta a quantidade de requisições simultâneas desses servidores. Por exemplo, o valor 168 indica que há 1 850 servidores com capacidade de atender 168 requisições simultâneas.
+**[FIGURA: Histograma e Tabela de Estatísticas. O histograma apresenta a distribuição da "Frequência" (eixo y, variando de 0 a 2000 em intervalos de 200) em relação à "Capacidade" (eixo x, variando de 122 a 234, com rótulos a cada 3-5 unidades). As barras azuis do histograma mostram uma distribuição aproximadamente normal, com formato de sino, centrada em torno do valor 171. A barra mais alta, correspondente à capacidade 168, atinge uma frequência próxima a 1850. Há uma tabela adjacente ao histograma que apresenta as seguintes estatísticas para a amostra: Média = 171 e Desvio Padrão = 10.]**
+Disponível em: http://www.openintro.org. Acesso em: 05 set. 2021 (adaptado).
+
+É possível afirmar que ao conectarmo-nos a um servidor dessa amostra, ao acaso, há aproximadamente
+
+A 34,13% de chance que sua capacidade esteja no intervalo [141, 201].
+B 34,13% de chance que sua capacidade esteja no intervalo [161, 181].
+C 76,68% de chance que sua capacidade esteja no intervalo [171, 191].
+D 95,44% de chance que sua capacidade esteja no intervalo [151, 191].
+E 99,74% de chance que sua capacidade esteja no intervalo [161, 181].

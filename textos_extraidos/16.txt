@@ -1,0 +1,28 @@
+QUESTÃO 16
+
+Em 1938, o matemático americano Claude Shannon notou o paralelismo entre a lógica proposicional e a lógica dos circuitos e percebeu que a álgebra booleana teria um papel importante na sistematização deste ramo da eletrônica. Cada um dos conetivos básicos da lógica são instâncias das operações básicas da álgebra booleana ("+", "." e "'"). Expressões booleanas combinando operações e variáveis podem ser usadas para representar circuitos combinacionais formados por portas lógicas.
+
+GERSTING, J. L. Mathematical Structures for Computer Science. New York: W. H. Freeman and Company, 2002.
+
+A figura a seguir apresenta as portas básicas.
+**[FIGURA: Diagrama de três portas lógicas básicas, dispostas horizontalmente sobre um fundo quadriculado.
+1.  **Porta “e” (AND):** Símbolo padrão de uma porta AND com duas entradas na lateral esquerda e uma saída na lateral direita. A frente da porta é em forma de 'D' arredondado.
+2.  **Porta “ou” (OR):** Símbolo padrão de uma porta OR com duas entradas na lateral esquerda e uma saída na lateral direita. A entrada tem uma curva suave e a frente é em forma de semicírculo pontudo.
+3.  **Porta “não” (NOT):** Símbolo padrão de um inversor (NOT gate) com uma entrada na lateral esquerda e uma saída na lateral direita. É representado por um triângulo com um pequeno círculo (bolha de inversão) na saída.]**
+
+A partir das informações apresentadas, considere o circuito combinacional da figura a seguir.
+**[FIGURA: Diagrama de um circuito combinacional complexo sobre um fundo quadriculado, contendo três entradas e várias portas lógicas conectadas.
+As entradas são rotuladas X1, X2 e X3 na lateral esquerda.
+*   A entrada X1 se conecta a uma porta NOT (inversor).
+*   A entrada X2 se conecta a uma porta NOT (inversor).
+*   A entrada X3 segue diretamente para uma porta AND.
+*   Uma porta AND recebe a entrada X3 e a saída da porta NOT conectada a X2. A expressão para a saída desta porta AND é (X3 . X2').
+*   Uma porta OR recebe como entradas a saída da porta NOT conectada a X1 e a saída da porta AND. A expressão para a saída desta porta OR é (X1' + (X3 . X2')).
+*   Uma porta NOT final recebe como entrada a saída da porta OR e representa a saída final do circuito. A expressão para a saída final é ((X1' + (X3 . X2'))').]**
+
+Qual das alternativas apresenta a expressão booleana correspondente?
+A: (X3 . X2') + X1'
+B: (X3 . (X2') + (X1'))'
+C: ((X3 . X2)' + X1')'
+D: (X3 . X2)' + X1'
+E: ((X3 . X2')' + X1')'

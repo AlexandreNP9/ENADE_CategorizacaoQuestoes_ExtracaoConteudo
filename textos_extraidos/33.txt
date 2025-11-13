@@ -1,0 +1,29 @@
+QUESTÃO 33
+
+A linguagem PROLOG pertence ao paradigma da programação lógica, no qual a lógica proposicional e algorítmica pode ser expressa na forma de descritores de fatos e regras de produção de respostas. No contexto da árvore genealógica de uma família, analise a seguinte base de fatos descrita em linguagem Prolog.
+
+```prolog
+paide(ana,francisco).
+paide(maria,francisco).
+paide(luiz,francisco).
+maede(jose,maria).
+maede(angelica,ana).
+paide(luiza,luiz).
+paide(joaquim,luiz).
+homem(francisco).
+homem(jose).
+homem(luiz).
+homem(joaquim).
+mulher(ana).
+mulher(maria).
+mulher(angelica).
+mulher(luiza)
+```
+
+Qual regra lógica de produção está corretamente escrita para verificar uma das situações lógicas em que duas pessoas são irmãs?
+
+A saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y.
+B saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X).
+C saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X,Y).
+D saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X), mulher(Y).
+E saoirmas(X,Y):-paide(X,P), maede(Y,M), X\=Y, mulher(X), mulher(Y).

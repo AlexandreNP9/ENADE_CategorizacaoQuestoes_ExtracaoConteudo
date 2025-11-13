@@ -1,0 +1,33 @@
+QUESTÃO 02
+
+TEXTO I
+
+A hortaliça é feia ou estragada?
+**[FIGURA: Infográfico intitulado "A hortaliça é feia ou estragada?". O elemento central do infográfico é uma grande imagem de uma hortaliça redonda e vermelha, semelhante a um tomate ou maçã, com um pequeno talo verde no topo. A superfície da hortaliça é lisa e brilhante, com uma leve irregularidade apontada por uma seta preta próxima ao talo. À esquerda da imagem principal, há duas seções de texto formatadas como listas. A primeira seção, intitulada "Está estragada:", é precedida por um ícone de ponto de exclamação vermelho dentro de um contorno irregular e pontudo, e lista as seguintes condições com um pequeno quadrado colorido ao lado de cada uma: "se estiver amassada" (quadrado verde), "se estiver machucada" (quadrado azul), "se estiver quebrada" (quadrado amarelo), "se não apresentar a coloração apropriada" (quadrado vermelho). Uma seta curva preta se estende desta seção em direção à hortaliça vermelha central. A segunda seção, intitulada "É feia:", é precedida por um ícone de visto verde dentro de um contorno irregular e pontudo. Acima do título "É feia:", há um pequeno ícone de relógio de alarme desenhado em preto, com uma seta preta apontando para ele. As condições listadas para "É feia:" são: "se o formato estiver fora do padrão" (quadrado roxo) e "se apresentar pequenas cicatrizes superficiais" (quadrado laranja). Abaixo desta seção, há um pequeno ícone de coração com um traçado de eletrocardiograma (ECG) em vermelho. Uma segunda seta curva preta se estende da seção "É feia:" também em direção à hortaliça vermelha central. No canto inferior direito da imagem, está o logotipo da Embrapa.]**
+
+Disponível em: https://www.facebook.com/embrapa/photos/a.609357055926350/733391400189581/?type=1&theater. Acesso em: 27 maio 2020.
+
+TEXTO II
+
+Em alguns países da Europa, permite-se que um produto de menor valor estético seja comercializado. Estamos falando de um pepino deformado ou de uma cebola pequena, mas não de um produto contaminado com resíduos químicos ou agentes biológicos. No caso do Brasil, o problema vai além da aparência, porque há hortaliças ruins – contaminadas, murchas, machucadas – que chegam às bancas para ser comercializadas.
+
+Mas, se nos dois contextos há perda de alimentos e preconceito em relação às hortaliças fora do padrão visual, mas boas para o consumo, quais seriam as alternativas para evitar o desperdício e melhorar a qualidade dos produtos? Para os pesquisadores do assunto, não adianta replicar a experiência europeia no Brasil, de exigir hortaliças esteticamente perfeitas, porque também teríamos produtos sendo desprezados ainda na etapa de produção. Não devemos passar de um mercado pouco exigente, que gera desperdício no varejo e nas residências, para um mercado exigente que gera perda no campo.
+A solução do problema é conscientizar os diversos elos da cadeia produtiva, especialmente varejistas e consumidores, para que sejam esclarecidos sobre quais aspectos da aparência das hortaliças comprometem a qualidade. Quanto maior a exigência do mercado por hortaliças de aparência perfeita, maior o desperdício de alimentos. Por sua vez, quanto menor a exigência por hortaliças sem danos causados pela falta de cuidado e pela falta de higiene, menor será a perda de alimentos e maior a qualidade da alimentação da população brasileira.
+
+Disponível em: https://www.embrapa.br/busca-de-noticias/-/noticia/29626389/manuseio-correto-preserva-a-qualidade-e-a-vida-util-das-hortalicas. Acesso em: 27 maio 2020 (adaptado).
+
+Considerando as informações apresentadas nos textos, avalie as asserções a seguir e a relação proposta entre elas.
+
+I. O texto I sintetiza uma informação principal do texto II, ao apresentar critérios distintivos de alterações visuais que têm efeitos puramente estéticos em produtos alimentícios daquelas que têm implicações na qualidade desses produtos.
+
+PORQUE
+
+II. O texto II divulga que o aumento das perdas na cadeia produtiva de hortaliças no Brasil é proporcional à elevação de exigências dos consumidores pela aparência de produtos agropecuários.
+
+A respeito dessas asserções, assinale a opção correta.
+
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.

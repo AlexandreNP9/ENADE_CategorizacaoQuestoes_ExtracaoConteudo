@@ -1,0 +1,26 @@
+QUESTÃO 11
+
+Uma equipe de cientistas da computação de uma determinada empresa de animação foi designada para desenvolver um sistema capaz de varrer a web no intuito de detectar sites que possam estar usando imagens de seus personagens de animação sem o devido consentimento. Portanto, o sistema deverá receber imagens como entrada, classificá-las entre imagens da empresa e imagens não produzidas pela empresa.
+
+A figura abaixo esboça uma arquitetura de rede neural profunda e o processo de treinamento que os cientistas pretendem usar.
+**[FIGURA: Diagrama de Fluxo de uma Arquitetura de Rede Neural e Processo de Treinamento. O fluxo inicia com a "Entrada (X)", que alimenta a "Camada de Entrada" (retângulo cinza). A partir da "Camada de Entrada", o fluxo passa por uma série de camadas ocultas representadas por reticências "..." e uma "Camada Intermediária n" (retângulos cinzas), até chegar à "Camada de Saída" (retângulo cinza). A "Camada de Saída" produz as "Saídas Previstas (Y')" (retângulo). Paralelamente, existem blocos de "Pesos 1", "Pesos" e "Pesos n" (retângulos), que se conectam às respectivas camadas, indicando os parâmetros da rede. Para o treinamento da rede, as "Saídas Previstas (Y')" e as "Saídas Reais (Y)" (retângulo) são alimentadas na "Função de Perda" (oval). O resultado da "Função de Perda" é então processado por um somatório "Σ" (retângulo), que por sua vez alimenta um "Otimizador" (oval). O "Otimizador" realiza o "Ajuste dos pesos" e retroalimenta os blocos de "Pesos n", "Pesos" e "Pesos 1", fechando o ciclo de treinamento.]**
+
+CHOLLET, F. Deep Learning with Python. New York: Manning Publications, 2017 (adaptado).
+
+Após uma tentativa, notaram-se duas dificuldades: 1) o tempo de treinamento da rede estava muito longo e 2) a acurácia da rede treinada não estava no patamar aceito pela empresa.
+
+Diante deste contexto, avalie as afirmações a seguir.
+
+I. Aumentar o número de camadas é uma alternativa que pode levar a uma melhora na acurácia, além de diminuir o tempo de treinamento da rede.
+II. Fazer uso de redes convolucionais é uma alternativa que pode levar a uma melhora na acurácia, no entanto, pode exigir uso de máquinas com maior poder de processamento.
+III. Aumentar o número de unidades de processamento (neurônios) nas camadas pode levar a uma piora na acurácia, além de diminuir o tempo de treinamento da rede.
+IV. Aumentar o número de amostras de treinamento é uma alternativa que pode levar a uma melhora na acurácia, apesar de aumentar o tempo de treinamento da rede.
+V. Fazer uso de redes recorrentes é uma alternativa que pode levar a uma melhora na acurácia, no entanto, pode exigir uso de máquinas com maior poder de processamento.
+
+É correto apenas o que se afirma em
+
+A I e IV.
+B I e V.
+C II e III.
+D II e IV.
+E III e V.

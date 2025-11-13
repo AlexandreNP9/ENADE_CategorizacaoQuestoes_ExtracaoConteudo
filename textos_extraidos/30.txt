@@ -1,0 +1,18 @@
+QUESTÃO 30
+Um compilador é um software que traduz um programa descrito em uma linguagem de alto nível para um programa equivalente em código de máquina para um processador. Em geral, um compilador não produz diretamente o código de máquina, mas sim, um programa em linguagem simbólica (assembly) semanticamente equivalente ao programa em linguagem de alto nível. O programa em linguagem simbólica é, então, traduzido para o programa em linguagem de máquina através de montadores. Para realizar esta tarefa, o compilador executa a análise léxica, sintática e semântica do código-fonte do programa que está sendo executado em linguagem abstrata para depois gerar o código de máquina.
+
+BRANCO, G. A. Jr.; TAMAE, R. Y. Uma breve introdução ao estudo e implementação de compiladores. *Revista Científica Eletrônica de Psicologia*. Ano V, n. 08, fev. 2008 (adaptado).
+
+Considerando as informações do texto, avalie as afirmações a seguir.
+
+I. O analisador sintático tem a função de verificar se a sequência de símbolos gerada pelo analisador léxico compõe um programa válido ou não.
+II. Na análise léxica, o analisador irá identificar cada símbolo que tenha significado para linguagem, gerando a mesma classificação para Java, Pascal ou outra linguagem.
+III. O analisador semântico utiliza o código fonte para verificar incoerências quanto ao significado das construções implementadas.
+IV. A fase de otimização do código procura melhorar o código intermediário, visando um código de máquina mais rápido em termos de execução.
+
+É correto apenas o que se afirma em
+A I e IV.
+B II e III.
+C II e IV.
+D I, II e III.
+E I, III e IV.

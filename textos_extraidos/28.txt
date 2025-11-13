@@ -1,0 +1,35 @@
+QUESTÃO 28
+
+A figura 1 ilustra um *pipeline* com cinco unidades, também denominadas estágios. O estágio 1 busca a instrução na memória e a coloca em um *buffer* até que ela seja necessária. O estágio 2 decodifica a instrução, determina seu tipo e de quais operandos ela necessita. O estágio 3 localiza e busca os operandos, seja nos registradores, seja na memória. O estágio 4 é que realiza o trabalho de executar a instrução, normalmente fazendo os operandos passar pelo caminho de dados. Por fim, o estágio 5 escreve o resultado de volta no registrador adequado. Na figura 2, vemos como o *pipeline* funciona em função do tempo. Durante o ciclo de relógio 1, o estágio S1 está trabalhando na instrução 1, buscando-a na memória. Durante o ciclo 2, o estágio S2 decodifica a instrução 1, enquanto o estágio S1 busca a instrução 2. Durante o ciclo 3, o estágio S3 busca os operandos da instrução 1, o estágio S2 decodifica a instrução 2, e o estágio S1 busca a terceira instrução. Durante o ciclo 4, o estágio S4 executa a instrução 1, S3 busca os operandos para a instrução 2, S2 decodifica a instrução 3 e S1 busca a instrução 4. Por fim, durante o ciclo 5, S5 escreve (grava) o resultado da instrução 1 de volta no registrador, enquanto os outros estágios trabalham nas instruções seguintes.
+
+[FIGURA: Diagrama de blocos intitulado 'Pipeline de 5 estágios'. Ele mostra cinco blocos retangulares dispostos horizontalmente, representando os estágios do pipeline. Cada bloco é rotulado com um identificador de estágio (S1, S2, S3, S4, S5) e uma descrição da unidade funcional:
+S1: Unidade de busca de instrução
+S2: Unidade de decodificação de instrução
+S3: Unidade de busca de operando
+S4: Unidade de execução de instrução
+S5: Unidade de Gravação]
+Figura 1 - *Pipeline* de 5 estágios.
+
+[FIGURA: Gráfico de Gantt ou diagrama de espaço-tempo para um pipeline de 5 estágios (S1 a S5) ao longo de 9 ciclos de tempo. O eixo vertical lista os estágios S1, S2, S3, S4, S5. O eixo horizontal, rotulado 'Tempo' e com uma seta indicando a direção para a direita, mostra os ciclos de 1 a 9. Cada célula representa um estágio em um ciclo de tempo específico, contendo o número da instrução que está sendo processada nesse estágio.
+- S1 (Busca de Instrução): Processa instrução 1 no ciclo 1, instrução 2 no ciclo 2, instrução 3 no ciclo 3, instrução 4 no ciclo 4, instrução 5 no ciclo 5, instrução 6 no ciclo 6, instrução 7 no ciclo 7, instrução 8 no ciclo 8, instrução 9 no ciclo 9.
+- S2 (Decodificação de Instrução): Processa instrução 1 no ciclo 2, instrução 2 no ciclo 3, instrução 3 no ciclo 4, instrução 4 no ciclo 5, instrução 5 no ciclo 6, instrução 6 no ciclo 7, instrução 7 no ciclo 8, instrução 8 no ciclo 9.
+- S3 (Busca de Operando): Processa instrução 1 no ciclo 3, instrução 2 no ciclo 4, instrução 3 no ciclo 5, instrução 4 no ciclo 6, instrução 5 no ciclo 7, instrução 6 no ciclo 8, instrução 7 no ciclo 9.
+- S4 (Execução de Instrução): Processa instrução 1 no ciclo 4, instrução 2 no ciclo 5, instrução 3 no ciclo 6, instrução 4 no ciclo 7, instrução 5 no ciclo 8, instrução 6 no ciclo 9.
+- S5 (Gravação): Processa instrução 1 no ciclo 5, instrução 2 no ciclo 6, instrução 3 no ciclo 7, instrução 4 no ciclo 8, instrução 5 no ciclo 9.
+Este diagrama ilustra a execução em pipeline, onde diferentes estágios processam diferentes instruções simultaneamente em cada ciclo de relógio, após o preenchimento inicial do pipeline. Os três pontos ("...") no final da linha indicam que o processo continua após o ciclo 9.]
+Figura 2 - Estado de cada estágio como uma função do tempo. São ilustrados 9 ciclos do relógio.
+TANENBAUM, A. S. *Organização Estruturada de Computadores*. 5. ed. São Paulo: Pearson Prentice Hall, p. 35, 2007 (adaptado).
+
+Considerando o modelo teórico do *pipeline* apresentado, avalie as afirmações a seguir.
+
+I. Uma falta na busca de instrução (nenhuma instrução buscada), em determinado ciclo, causará uma bolha (ausência de instrução útil) no estágio S1, e essa bolha percorrerá todos os estágios seguintes, um após o outro, nos próximos 4 ciclos, até ser eliminada do *pipeline*.
+II. Cada instrução leva 5 ciclos para ser executada, mas se alguma instrução não precisar passar por determinado estágio, ela poderá percorrer o *pipeline* em um número menor de ciclos, por exemplo, se a instrução não possuir operandos ela não precisará passar pelo estágio S3 e assim poderá ser movida diretamente para o estágio S4.
+III. Dispondo de *cache* de dados separada da *cache* de instruções, o estágio S1 busca instruções na *cache* de instruções e dados na *cache* de dados.
+IV. Dispondo de BTB (*branch target buffer*), após a busca de uma instrução de desvio condicional, as instruções seguintes podem ser buscadas e colocadas no *pipeline*, o que evita bolhas em seus vários estágios.
+
+É correto apenas o que se afirma em
+A I e II.
+B I e IV.
+C III e IV.
+D I, II e III.
+E II, III e IV.

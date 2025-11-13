@@ -1,0 +1,21 @@
+QUESTÃO 19
+
+Duas técnicas comumente utilizadas para ampliar as informações básicas sobre requisitos são personas e cenários. Frequentemente usadas juntas, essas técnicas se complementam de forma a trazer detalhes realísticos que possibilitam ao desenvolvedor explorar as atividades atuais do usuário, uso futuro de novos produtos e visões futuristas de novas tecnologias. Elas também podem guiar o desenvolvimento ao longo do ciclo de vida do produto.
+
+ROGERS, Y.; PREECE, J.; SHARP, H. **Interaction Design**: beyond human-computer interaction.
+5. ed. Indianapolis, IN, USA: John Wiley & Sons, Inc., 2019 (adaptado).
+
+Com base no texto apresentado e sobre os objetivos do uso de personas e cenários em um processo de elicitação de requisitos, avalie as afirmações a seguir.
+
+I. O uso de personas e cenários, em um processo de elicitação, explicita algumas situações que aparecem implícitas nos requisitos.
+II. O uso de personas e cenários, em um processo de elicitação, ajuda o projetista a entender melhor o impacto das decisões de projeto.
+III. O uso de personas e cenários, em um processo de elicitação, facilita a especificação formal e não-ambígua dos requisitos de interação.
+IV. O uso de personas e cenários, em um processo de elicitação, lembra à equipe de desenvolvimento que pessoas reais usarão o produto.
+
+É correto apenas o que se afirma em
+
+A I e III.
+B I e IV.
+C II e III.
+D I, II e IV.
+E II, III e IV.
