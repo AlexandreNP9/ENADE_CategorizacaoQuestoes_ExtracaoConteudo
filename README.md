@@ -19,5 +19,7 @@ pip3 install google-genai
 
 ## Chave API
 Obter API key no Google AI Studio  
+https://aistudio.google.com/app/api-keys  
+
 Adicionar ao código na variável de ambiente com:  
 export GEMINI_API_KEY="SUA_CHAVE_AQUI"
