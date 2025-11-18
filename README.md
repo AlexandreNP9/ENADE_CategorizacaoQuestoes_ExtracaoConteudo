@@ -10,6 +10,8 @@ Utilizar a API do Google Flash 2.5 com OCR
 Extrair conteúdo das questões já tratadas do ENADE  
 Nas questões que contém figuras, a OCR descreve a figura.
 
+A extração do conteúdo do gabarito e do padrão de resposta é mais fácil fazer no Gemini direto, e só colocar aqui.
+
 # Especifidades técnicas
 ## Programas e bibliotecas
 Linux Mint 22.1  
