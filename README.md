@@ -50,3 +50,8 @@ pip3 install tenacity
 ```
 python3 extrair-conteudo.py
 ```
+
+# Observações
+O gabarito achei mais fácil mandar direto no site do Gemini e pedir para extrair, para não gastar token e não gerar um código trabalhoso para algo tão simples. Mas tem que conferir, porque ele extraiu algumas alternativas incorretas.  
+
+O mesmo acontece com o padrão de resposta: achei mais fácil colocar no Gemini direto.
