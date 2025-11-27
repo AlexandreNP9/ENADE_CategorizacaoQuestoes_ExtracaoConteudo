@@ -1,0 +1,649 @@
+Aqui está o conteúdo extraído do documento na íntegra, preservando a estrutura, numeração e texto original.
+
+PARECER HOMOLOGADO
+Despacho do Ministro, publicado no D.O.U. de 28/10/2016, Seção 1, Pág. 26.
+
+MINISTÉRIO DA EDUCAÇÃO
+CONSELHO NACIONAL DE EDUCAÇÃO
+
+INTERESSADO: Conselho Nacional de Educação/Câmara de Educação Superior UF: DF
+ASSUNTO: Diretrizes Curriculares Nacionais para os cursos de graduação em Computação.
+RELATOR: Paulo Monteiro Vieira Braga Barone
+PROCESSO Nº: 23001.000026/2012-95
+PARECER CNE/CES Nº: 136/2012
+COLEGIADO: CES
+APROVADO EM: 9/3/2012
+
+I – RELATÓRIO
+
+O presente processo trata das Diretrizes Curriculares Nacionais para os cursos de bacharelado e licenciatura em Computação, remetidas pela Secretaria de Educação Superior do Ministério da Educação (SESu/MEC) para apreciação pela Câmara de Educação Superior do Conselho Nacional de Educação.
+
+A proposta para as Diretrizes Curriculares Nacionais em questão foi sistematizada em 1999, como resultado das contribuições recebidas em decorrência do Edital Nº 4/SESu e das discussões realizadas no âmbito da Sociedade Brasileira de Computação (SBC), no Seminário da Comissão de Especialistas, consultores da SESu, realizado em Belo Horizonte, em agosto de 1998, e em eventos científicos da área.
+
+Neste CNE foi designada Comissão responsável pelos trabalhos relativos às Diretrizes Curriculares Nacionais dos cursos das grandes áreas de Ciências Exatas e Engenharias. A Comissão foi recomposta com sucessivas renovações da composição do Conselho. No entanto, a partir da conclusão do mandato do Conselheiro Roberto Cláudio Frota Bezerra, que a integrava, não houve recomposição e fui designado para continuar o trabalho.
+
+Para isto, participei de debates com a comunidade acadêmica da área da Computação e de eventos, como o Simpósio Brasileiro de Informática na Educação de 2006.
+
+Em junho de 2010, a partir de contatos com participantes da Comissão de Especialistas já referida, decidi constituir um Grupo de Trabalho para avaliar e atualizar o material e obter eventuais contribuições adicionais. O Grupo foi composto pelos Professores Daltro José Nunes (UFRGS), Marcelo Walter (UFRGS, Vice-presidente da Sociedade Brasileira de Computação - SBC), Mirela Moura Moro (UFMG, Diretora de Ensino da SBC), Maria Izabel Cavalcanti Cabral (UFPB e UNIPÊ), Jorge Luis Nicolas Audy (PUC-RS), Roberto da Silva Bigonha (UFMG), sob a coordenação do primeiro. Colaboraram também diretamente com o trabalho os Professores José Carlos Maldonado (USP/São Carlos, Presidente da SBC) e Murilo da Silva Camargo (UnB e SESu/MEC).
+
+Em reunião inicial, foram relatados os impactos da divulgação da já referida proposta da SESu para as Diretrizes Curriculares Nacionais sobre os cursos da área. Tais relatos permitiram concluir que, embora o CNE não tenha concluído ainda o processo para sua aprovação, os princípios, recomendações, linhas de formação e nomenclaturas contidos no documento foram adotados pela quase totalidade das Instituições de Educação Superior, o que demonstra o caráter fundamental da proposta original e o papel que esta desempenhou na organização da oferta dos cursos de Computação. A orientação referente aos cursos previa a oferta de apenas quatro alternativas de cursos: bacharelado em Ciência da Computação, em Sistemas de Informação e em Engenharia de Computação e licenciatura em Computação. Mesmo considerando um campo de conhecimento caracterizado por uma rápida evolução tecnológica, a proposta de 1999 foi considerada pelo Grupo de Trabalho ainda bastante atual em suas linhas gerais. Por outro lado, o desenvolvimento de uma nova área de atividades ensejou a criação de uma nova alternativa de formação por meio dos cursos de Engenharia de Software. Em face destas conclusões, o Grupo planejou a preparação de uma nova versão do texto, que deveria ser discutida em sessões de trabalho dos congressos científicos da área ao longo do segundo semestre de 2010.
+
+Encerrada esta etapa, nova reunião foi realizada em janeiro de 2011, com os objetivos de consolidar o material resultante destas discussões e organizar um processo de consulta pública a ser realizada por meio da página eletrônica do Conselho.
+
+Concluída a consulta, as contribuições recebidas foram sistematizadas pelo Grupo de Trabalho, com a colaboração dos Professores Eduardo Barrére, José Maria Nazar David e Lorenza Leão Oliveira Moreno, todos da UFJF.
+
+Nova reunião do Grupo de Trabalho, realizada em julho de 2011, resultou no Relatório Final das atividades, que está anexado ao processo. Este material foi apresentado à Câmara de Educação Superior para apreciação preliminar. O texto apresenta, como um histórico da Computação, dos computadores e dos cursos de graduação na área, os benefícios destes cursos para a sociedade – que fundamentam estas alternativas de formação – e alguns outros aspectos gerais dos quais transcrevo alguns extratos abaixo.
+
+(...)
+Dos Benefícios para a Sociedade dos Cursos de Bacharelado e de Licenciatura
+
+Os computadores têm um papel fundamental na sociedade. Estão presentes, na Educação, nas comunicações, na saúde, na gestão, nas artes e na pesquisa. Hoje, praticamente, todos os dispositivos elétricos incorporam um processador. A invenção do computador no século 20 é um evento único em um milênio comparável, em importância, ao desenvolvimento da escrita ou da imprensa. Não é um exagero dizer que a vida das pessoas depende de sistemas de computação e de profissionais que os mantêm, seja para dar segurança na estrada e no ar ou ajudar médicos a diagnosticar e tratar problemas de saúde, seja com um papel fundamental no desenvolvimento de novas drogas. O progresso no conhecimento da genética ou da criação de uma vacina requer profissionais que pensem em termos de Computação porque os problemas são insolúveis sem isso. Mais frequentemente, profissionais de computação estão trabalhando com especialistas de outras áreas, projetando e construindo sistemas de computação para os mais diversos aspectos da sociedade. Métodos computacionais têm, também, transformado campos como a estatística, a matemática e a física. Embora possa parecer surpreendente, a computação também pode ajudar a entender o Ser Humano. O sequenciamento do genoma humano em 2001 foi uma conquista marcante da biologia molecular, que não teria sido possível sem a aplicação de técnicas de inteligência artificial, recuperação de informação e sistemas de informação. A modelagem, simulação, visualização e administração de imensos conjuntos de dados criaram um novo campo – a ciência computacional. Avanços na previsão do tempo, por exemplo, se devem a melhores modelagens e simulações. Nesse novo mundo amplamente conectado novos benefícios se impõem, destaque para as redes sociais online, softwares que permitem a construção de relacionamentos de grupos de pessoas baseados em interesses comuns que têm desempenhado um papel fundamental na sociedade.
+
+(...)
+Dos Benefícios para a Sociedade dos Cursos de Bacharelado em Ciência da Computação
+
+Os cientistas da computação são responsáveis pelo desenvolvimento científico (teorias, métodos, linguagens, modelos, entre outras) e tecnológico da Computação. Eles constroem ferramentas que são normalmente utilizadas por outros profissionais da área de Computação, responsáveis pela construção de software para usuários finais e projetos de sistemas digitais. Eles são também responsáveis pela infraestrutura de software dos computadores (sistemas operacionais, compiladores, banco de dados, navegadores entre outras) e software para sistemas embarcados, sistemas móveis, sistemas de computação nas nuvens e sistemas de automação, entre outros. Também são responsáveis pelo desenvolvimento de aplicações de propósito geral. Os cientistas da computação aplicam métodos e processos científicos para o desenvolvimento de produtos corretos. Sabem fazer uso da interdisciplinaridade, na medida em que conseguem combinar ciências, dando a elas um tratamento computacional.
+
+(...)
+Os Benefícios para a Sociedade dos Cursos de Bacharelado em Engenharia de Computação
+
+Os Engenheiros de Computação disponibilizam para a sociedade produtos de eletrônica de consumo, de comunicações e de automação (industrial, bancária e comercial). Eles desenvolvem também sistemas de computação embarcados em aviões, satélites e automóveis, para realizar funções de controle. Uma grande linha de sistemas tecnologicamente complexos, como sistemas de geração e distribuição de energia elétrica e plantas modernas de processamento e industrial, dependem de sistemas de computação desenvolvidos e projetados por Engenheiros de Computação. Existe uma convergência de diversas tecnologias bem estabelecidas (como tecnologias de televisão, computação e redes de computadores) resultando em acesso amplo e rápido a informações em grande escala, em cujo desenvolvimento os Engenheiros de Computação têm uma participação efetiva.
+
+(...)
+Os Benefícios para a Sociedade dos Cursos de Bacharelado em Engenharia de Software
+
+Todo usuário interage (via mouse, microfone, teclado, câmera, tela sensível, etc.) com o software e este, por sua vez, interage com o hardware dos computadores. O software desempenha um papel central em quase todos os aspectos da vida cotidiana, no governo, bancos e finanças, educação, transporte, entretenimento, medicina, agricultura, indústria e direito, entre outros. Softwares, inclusive, mantêm funcionando os vários serviços eletrônicos e programas sociais de larga escala dos governos, o fornecimento de energia elétrica, as redes de telecomunicações, os serviços de transporte aéreo, os caixas eletrônicos dos bancos, os cartões de crédito, as bolsas de valores e mercadorias, e muito mais. Os produtos de software têm ajudado a sociedade quanto à eficiência e à produtividade. Eles permitem solucionar problemas de forma mais eficaz e fornecem um ambiente muitas vezes, mais seguro, mais flexível e mais aberto. Os produtos de software estão entre os mais complexos dos sistemas artificiais, e software, por sua própria natureza, tem ainda propriedades essenciais intrínsecas (por exemplo, a complexidade, a invisibilidade e a mutabilidade), que não são fáceis de serem dominadas.
+
+(...)
+Os Benefícios para a Sociedade dos Cursos de Bacharelado em Sistemas de Informação
+
+As organizações em geral dependem totalmente da função de Sistemas de Informação para sua operação e possuem nas Tecnologias de Informação e Comunicação sua principal ferramenta de trabalho, em todas suas áreas funcionais (produção, marketing, recursos humanos, finanças, etc.). A área de Sistemas de Informação contribui de forma importante em diversos domínios, incluindo empresas e governo. Esta área lida com sistemas complexos que requerem conhecimentos técnicos e organizacionais para serem projetados, desenvolvidos e gerenciados, que afetam tanto as operações como as estratégias das organizações. Os Sistemas de Informação e as Tecnologias da Informação e Comunicação nas organizações representam, para a sociedade, potenciais ganhos de eficiência no uso de recursos, com impactos na produtividade e na competitividade das empresas e do país em geral, em um cenário nacional e internacional cada vez mais globalizado e competitivo.
+
+(...)
+Os Benefícios para a Sociedade dos Cursos de Licenciatura em Computação
+
+Os cursos de Licenciatura em Computação têm como objetivo principal preparar professores para formar cidadãos com competências e habilidades necessárias para conviver e, prosperar em um mundo cada vez mais tecnológico e global e que contribuam para promover o desenvolvimento econômico e social de nosso País. A introdução do pensamento computacional e algorítmico na educação básica fornece os recursos cognitivos necessários para a resolução de problemas, transversal a todas as áreas do conhecimento. As ferramentas de educação assistida por computador e os sistemas de educação à distância tornam a interação ensino-aprendizagem prazerosa, autônoma e efetiva, pois introduzem princípios e conceitos pedagógicos na interação humano-computador. Essas ferramentas são desenvolvidas com a participação de Licenciados em Computação. Genericamente, todo sistema computacional com funcionalidade pedagógica ou que necessita de assistência para seu uso, requer a participação dos Licenciados em Computação.
+
+(...)
+Da Metodologia de Ensino
+
+A metodologia de ensino deve ser centrada no aluno como sujeito da aprendizagem e apoiada no professor como facilitador do processo de ensino-aprendizagem. O professor deve fortalecer o trabalho extraclasse como forma de o aluno aprender a resolver problemas, aprender a aprender, tornar-se independente e criativo. O professor deve mostrar, ainda, as aplicações dos conteúdos teóricos, ser um mediador, estimular a competição, a comunicação, provocar a realização de trabalho em equipe, motivar os alunos para os estudos e orientar o raciocínio e desenvolver as capacidades de comunicação e de negociação. O projeto pedagógico deve prever o emprego de metodologias de ensino e aprendizagem que promovam a explicitação das relações entre os conteúdos abordados e as competências previstas para o egresso do curso. A metodologia de ensino deve desenvolver uma visão sistêmica para resolução de problemas.
+
+Formação Humanística e Social
+
+A Computação permeia praticamente todas as atividades humanas, incluindo trabalho, lazer, saúde, educação e comunicação, cabendo aos profissionais da Área a responsabilidade pelo desenvolvimento de soluções, ferramentas e processos coerentes com valores éticos e interesse social, e que também busquem o bem-estar do homem e o avanço tecnológico. Para exercer com competência essas atribuições, é indispensável que o profissional tenha, pelo menos, realizado os estudos a seguir. O estudo da História da Computação para prover o conhecimento da evolução histórica da Área, de forma a permitir que o egresso localize-se no processo evolutivo da Área e seja capaz de avaliar e conhecer as tendências evolucionárias. O estudo de Empreendedorismo para prover o profissional de Computação não só da capacidade de produzir soluções competentes para as demandas de mercado, mas também da capacidade de alterar o estado do mercado com propostas criativas e inovadoras. Para isso, os egressos devem ter essas capacidades, reconhecendo e aproveitando oportunidades de negócio e criando empreendimentos de sucesso. O estudo das questões éticas para prover o profissional dos limites no desenvolvimento e no uso dos computadores e das tecnologias de computação. Pela ética pode-se identificar e divulgar questões e problemas ligados ao exercício profissional. Deve-se estudar como abordar essas questões e problemas, visando avançar seu conhecimento e entendimento, identificando conflitos e concebendo soluções. O estudo dos Impactos da Automação na Sociedade para prover o profissional de computação do conhecimento das influências sociais e individuais, sejam negativas ou positivas, causadas pelos computadores. Aspectos fundamentais que devem ser discutidos são: a influência do computador sobre a mentalidade dos programadores e usuários; o problema da automação como mecanismo para substituir o trabalho humano; o problema da inclusão digital; o uso de computadores na educação; qualidade da informação disponível na Internet; os efeitos sociais negativos e positivos da profissão; influências perniciosas dos computadores sobre a mente dos seus usuários e profissionais. O estudo de Sociologia para prover o profissional de computação de posição crítica nos aspectos da vida social e cultural da qual os profissionais fazem parte; particularmente importante, é o estudo dos desafios colocados pelas inovações tecnológicas e mudanças na organização do trabalho, das mudanças no seu conteúdo, necessidade de novas exigências de qualificações impostas pelas novas tecnologias e o desenvolvimento do espírito crítico no sentido de uma qualificação baseada no desenvolvimento autêntico e integral do sujeito como indivíduo e como ator social, postulando não só a sua inserção mas também a compreensão e o questionamento do mundo tecnológico e do mundo sociocultural que o circunda. O enfoque sociológico não pode prescindir da análise das novas competências necessárias aos profissionais diante das mudanças no mundo do trabalho. O estudo de Filosofia para prover o profissional de computação da necessidade de ampliar a compreensão da realidade, pela busca incessante do conhecimento. Questões como as possibilidades abertas pelo conhecimento científico, o relacionamento entre as teorias científicas e as experiências por elas retratadas são pontos vitais na formação do profissional contemporâneo. O estudo integral da Computação transcende as questões meramente técnicas, exigindo a compreensão do processo de construção do conhecimento, ponto central de qualquer investigação.
+(...)
+
+Observo que os cursos de Engenharia de Computação no país são concebidos segundo duas linhas distintas, dependendo da sua origem no meio acadêmico. A primeira, como vertente da formação na área da Computação, descrita no presente Parecer, e a segunda, como vertente da formação em outras modalidades de Engenharia. Tendo em vista a legitimidade acadêmica destas duas alternativas, é importante admiti-las, de modo que a formação em Engenharia de Computação poderá seguir as presentes Diretrizes ou as Diretrizes gerais para os cursos de Engenharia, estabelecidas pela Resolução CNE/CES 11/2002. De toda forma, embora a organização dos cursos possa ser distinta se orientadas por estas duas alternativas, as formações acadêmicas resultantes nos dois casos são altamente compatíveis. Em consonância com as alternativas de orientação destes cursos, os processos avaliativos do Sistema Nacional de Avaliação da Educação Superior deverão ser devidamente ajustados.
+
+A seguir, passo a apresentar as Diretrizes Curriculares para os Cursos de Graduação na área de Computação, abrangendo os cursos de bacharelado em Ciência da Computação, bacharelado em Sistemas de Informação, bacharelado em Engenharia de Computação e bacharelado em Engenharia de Software e os cursos de licenciatura em Computação, na forma seguinte.
+
+1. Perfil dos Egressos
+
+1.1. Perfil Geral dos Egressos dos Cursos de Bacharelado e de Licenciatura
+
+Os cursos de bacharelado e de licenciatura da área de Computação devem assegurar a formação de profissionais dotados:
+
+do conhecimento das questões sociais, profissionais, legais, éticas, políticas e humanísticas;
+
+da compreensão do impacto da computação e suas tecnologias na sociedade no que concerne ao atendimento e à antecipação estratégica das necessidades da sociedade;
+
+da visão crítica e criativa na identificação e resolução de problemas contribuindo para o desenvolvimento de sua área;
+
+da capacidade de atuar de forma empreendedora, abrangente e cooperativa no atendimento às demandas sociais da região onde atua, do Brasil e do mundo;
+
+da capacidade de utilizar racionalmente os recursos disponíveis de forma transdisciplinar;
+
+da compreensão das necessidades da contínua atualização e aprimoramento de suas competências e habilidades;
+
+da capacidade de reconhecer a importância do pensamento computacional na vida cotidiana, como também sua aplicação em outros domínios e ser capaz de aplicá-lo em circunstâncias apropriadas; e
+
+da capacidade de atuar em um mundo globalizado do trabalho.
+
+1.2. Perfil dos Egressos dos Cursos de Bacharelado em Ciência da Computação
+
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, espera-se que os egressos dos cursos de bacharelado em Ciência da Computação:
+
+Possuam sólida formação em Ciência da Computação e Matemática que os capacitem a construir aplicativos de propósito geral, ferramentas e infraestrutura de software de sistemas de computação e de sistemas embarcados, gerar conhecimento científico e inovação e que os incentivem a estender suas competências à medida que a área se desenvolva;
+
+Possuam visão global e interdisciplinar de sistemas e entendam que esta visão transcende os detalhes de implementação dos vários componentes e os conhecimentos dos domínios de aplicação;
+
+Conheçam a estrutura dos sistemas de computação e os processos envolvidos na sua construção e análise;
+
+Conheçam os fundamentos teóricos da área de Computação e como eles influenciam a prática profissional;
+
+Sejam capazes de agir de forma reflexiva na construção de sistemas de computação por entender que eles atingem direta ou indiretamente as pessoas e a sociedade;
+
+Sejam capazes de criar soluções, individualmente ou em equipe, para problemas complexos caracterizados por relações entre domínios de conhecimento e de aplicação;
+
+Reconheçam que é fundamental a inovação e a criatividade e entendam as perspectivas de negócios e oportunidades relevantes.
+
+1.3. Perfil dos Egressos dos Cursos de Bacharelado em Engenharia de Computação
+
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, espera-se que os egressos dos cursos de Engenharia de Computação:
+
+Possuam sólida formação em Ciência da Computação, Matemática e Eletrônica visando à análise e ao projeto de sistemas de computação, incluindo sistemas voltados à automação e controle de processos industriais e comerciais, sistemas e dispositivos embarcados, sistemas e equipamentos de telecomunicações e equipamentos de instrumentação eletrônica;
+
+Conheçam os direitos e propriedades intelectuais inerentes à produção e à utilização de sistema de computação;
+
+Sejam capazes de agir de forma reflexiva na construção de sistemas de computação, compreendendo o seu impacto direto ou indireto sobre as pessoas e a sociedade;
+
+Entendam o contexto social no qual a Engenharia é praticada, bem como os efeitos dos projetos de Engenharia na sociedade;
+
+Considerem os aspectos econômicos, financeiros, de gestão e de qualidade, associados a novos produtos e organizações;
+
+Considerem fundamentais a inovação e a criatividade e compreendam as perspectivas de negócios e oportunidades relevantes.
+
+1.4. O Perfil dos Egressos dos Cursos de Bacharelado em Engenharia de Software
+
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, espera-se dos egressos dos cursos de Engenharia de Software que:
+
+Possuam sólida formação em Ciência da Computação, Matemática e Produção, visando a criação de sistemas de software de alta qualidade de maneira sistemática, controlada, eficaz e eficiente que levem em consideração questões éticas, sociais, legais e econômicas;
+
+Sejam capazes de criar soluções, individualmente ou em equipe, para problemas complexos relacionados aos domínios de conhecimento e de aplicação;
+
+Sejam capazes de agir de forma reflexiva na construção de software, compreendendo o seu impacto direto ou indireto sobre as pessoas e a sociedade;
+
+Entendam o contexto social no qual a construção de Software é praticada, bem como os efeitos dos projetos de software na sociedade;
+
+Entendam os aspectos econômicos e financeiros, associados a novos produtos e organizações;
+
+Entendam a importância da inovação e da criatividade e compreendam as perspectivas de negócios e oportunidades relevantes.
+
+1.5. Perfil dos Egressos dos Cursos de Bacharelado em Sistemas de Informação
+
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, espera-se que os egressos dos cursos de Sistemas de Informação:
+
+Possuam sólida formação em Ciência da Computação, Matemática e Administração visando o desenvolvimento e a gestão de soluções baseadas em tecnologia da informação para os processos de negócio das organizações de forma que elas atinjam efetivamente seus objetivos estratégicos de negócio;
+
+Possam determinar os requisitos, desenvolver, evoluir e administrar os sistemas de informação das organizações, assegurando que elas tenham as informações e os sistemas de que necessitam para prover suporte as suas operações e obter vantagem competitiva;
+
+Sejam capazes de inovar, planejar e gerenciar a infraestrutura de tecnologia da informação em organizações, bem como desenvolver e evoluir sistemas de informação para uso em processos organizacionais, departamentais e/ou individuais;
+
+Possam escolher e configurar equipamentos, sistemas e programas para a solução de problemas que envolvam a coleta, processamento e disseminação de informações;
+
+Entendam o contexto no qual as soluções de sistemas de informação são desenvolvidas e implantadas, atentando para as suas implicações organizacionais e sociais;
+
+Entendam os modelos e as áreas de negócios, atuando como agentes de mudança no contexto organizacional;
+
+Possam desenvolver pensamento sistêmico que permita analisar e entender os problemas organizacionais.
+
+1.6. Perfil dos Egressos dos Cursos de Licenciatura em Computação
+
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, espera-se que os egressos dos cursos de licenciatura em Computação, além de atenderem ao perfil geral previsto para os egressos dos cursos de Formação de Professores para a Educação Básica, estabelecido por meio da Resolução CNE/CP no 1/2002:
+
+Possuam sólida formação em Ciência da Computação, Matemática e Educação visando ao ensino de Ciência da Computação nos níveis da Educação Básica e Técnico e suas modalidades e a formação de usuários da infraestrutura de software dos Computadores, nas organizações;
+
+Possuam capacidade de fazer uso da interdisciplinaridade e introduzir conceitos pedagógicos no desenvolvimento de Tecnologias Educacionais, permitindo uma interação humano-computador inteligente, visando o ensino-aprendizagem assistidos por computador, bem como nas interações de educação à distância;
+
+Possuam capacidade de atuar como docente, estimulando a investigação científica com visão de avaliação crítica e reflexiva;
+
+Sejam capazes de atuar no desenvolvimento de processos de orientação, motivação e estimulação da aprendizagem, com a seleção de plataformas computacionais adequadas às necessidades das organizações;
+
+2. Competências e Habilidades
+
+2.1. Competências e Habilidades Gerais dos Egressos dos Cursos de Bacharelado e de Licenciatura
+
+Os cursos de bacharelado e de licenciatura em Computação devem formar profissionais que revelem pelo menos as competências e habilidades comuns para:
+
+Identificar problemas que tenham solução algorítmica;
+
+Conhecer os limites da computação;
+
+Resolver problemas usando ambientes de programação;
+
+Tomar decisões e inovar, com base no conhecimento do funcionamento e das características técnicas de hardware e da infraestrutura de software dos sistemas de computação consciente dos aspectos éticos, legais e dos impactos ambientais decorrentes;
+
+Compreender e explicar as dimensões quantitativas de um problema;
+
+Gerir a sua própria aprendizagem e desenvolvimento, incluindo a gestão de tempo e competências organizacionais;
+
+Preparar e apresentar seus trabalhos e problemas técnicos e suas soluções para audiências diversas, em formatos apropriados (oral e escrito);
+
+Avaliar criticamente projetos de sistemas de computação;
+
+Adequar-se rapidamente às mudanças tecnológicas e aos novos ambientes de trabalho;
+
+Ler textos técnicos na língua inglesa;
+
+Empreender e exercer liderança, coordenação e supervisão na sua área de atuação profissional;
+
+Ser capaz de realizar trabalho cooperativo e entender a força que dele pode ser derivada.
+
+2.2. Competências e Habilidades dos Egressos dos Cursos de Bacharelado em Ciência da Computação.
+
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, os cursos de bacharelado em Ciência da Computação devem prover uma formação profissional que revele, pelo menos, as habilidades e competências para:
+
+Compreender os fatos essenciais, os conceitos, os princípios e as teorias relacionadas à Ciência da Computação para o desenvolvimento de software e hardware e suas aplicações;
+
+Reconhecer a importância do pensamento computacional no cotidiano e sua aplicação em circunstâncias apropriadas e em domínios diversos;
+
+Identificar e gerenciar os riscos que podem estar envolvidos na operação de equipamentos de computação (incluindo os aspectos de dependabilidade e segurança);
+
+Identificar e analisar requisitos e especificações para problemas específicos e planejar estratégias para suas soluções;
+
+Especificar, projetar, implementar, manter e avaliar sistemas de computação, empregando teorias, práticas e ferramentas adequadas;
+
+Conceber soluções computacionais a partir de decisões visando o equilíbrio de todos os fatores envolvidos;
+
+Empregar metodologias que visem garantir critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma solução computacional;
+
+Analisar quanto um sistema baseado em computadores atende os critérios definidos para seu uso corrente e futuro (adequabilidade);
+
+Gerenciar projetos de desenvolvimento de sistemas computacionais;
+
+Aplicar temas e princípios recorrentes, como abstração, complexidade, princípio de localidade de referência (caching), compartilhamento de recursos, segurança, concorrência, evolução de sistemas, entre outros, e reconhecer que esses temas e princípios são fundamentais à área de Ciência da Computação;
+
+Escolher e aplicar boas práticas e técnicas que conduzam ao raciocínio rigoroso no planejamento, na execução e no acompanhamento, na medição e gerenciamento geral da qualidade de sistemas computacionais;
+
+Aplicar os princípios de gerência, organização e recuperação da informação de vários tipos, incluindo texto imagem som e vídeo;
+
+Aplicar os princípios de interação humano-computador para avaliar e construir uma grande variedade de produtos incluindo interface do usuário, páginas WEB, sistemas multimídia e sistemas móveis.
+
+2.3. Competências e Habilidades dos Cursos de Bacharelado em Engenharia de Computação
+
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, os cursos de bacharelado em Engenharia de Computação devem prover uma formação profissional que revele, pelo menos, as habilidades e competências para:
+
+Planejar, especificar, projetar, implementar, testar, verificar e validar sistemas de computação (sistemas digitais), incluindo computadores, sistemas baseados em microprocessadores, sistemas de comunicações e sistemas de automação, seguindo teorias, princípios, métodos, técnicas e procedimentos da Computação e da Engenharia;
+
+Compreender, implementar e gerenciar a segurança de sistemas de computação;
+
+Gerenciar projetos e manter sistemas de computação;
+
+Conhecer os direitos e propriedades intelectuais inerentes à produção e à utilização de sistemas de computação;
+
+Desenvolver processadores específicos, sistemas integrados e sistemas embarcados, incluindo o desenvolvimento de software para esses sistemas;
+
+Analisar e avaliar arquiteturas de computadores, incluindo plataformas paralelas e distribuídas, como também desenvolver e otimizar software para elas;
+
+Projetar e implementar software para sistemas de comunicação;
+
+Analisar, avaliar e selecionar plataformas de hardware e software adequados para suporte de aplicação e sistemas embarcados de tempo real;
+
+Analisar, avaliar, selecionar e configurar plataformas de hardware para o desenvolvimento e implementação de aplicações de software e serviços;
+
+Projetar, implantar, administrar e gerenciar redes de computadores;
+
+Realizar estudos de viabilidade técnico-econômica.
+
+2.4. Competências e Habilidades dos Egressos dos Cursos de Bacharelado em Engenharia de Software.
+
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, os cursos de bacharelado em Engenharia de Software devem prover uma formação profissional que revele, pelo menos, as habilidades e competências para:
+
+Investigar, compreender e estruturar as características de domínios de aplicação em diversos contextos que levem em consideração questões éticas, sociais, legais e econômicas, individualmente e/ou em equipe;
+
+Compreender e aplicar processos, técnicas e procedimentos de construção, evolução e avaliação de software;
+
+Analisar e selecionar tecnologias adequadas para a construção de software;
+
+Conhecer os direitos e propriedades intelectuais inerentes à produção e utilização de software;
+
+Avaliar a qualidade de sistemas de software;
+
+Integrar sistemas de software;
+
+Gerenciar projetos de software conciliando objetivos conflitantes, com limitações de custos, tempo e com análise de riscos;
+
+Aplicar adequadamente normas técnicas;
+
+Qualificar e quantificar seu trabalho baseado em experiências e experimentos;
+
+Exercer múltiplas atividades relacionadas a software como: desenvolvimento, evolução, consultoria, negociação, ensino e pesquisa;
+
+Conceber, aplicar e validar princípios, padrões e boas práticas no desenvolvimento de software;
+
+Analisar e criar modelos relacionados ao desenvolvimento de software;
+
+Identificar novas oportunidades de negócios e desenvolver soluções inovadoras;
+
+Identificar e analisar problemas avaliando as necessidades dos clientes, especificar os requisitos de software, projetar, desenvolver, implementar, verificar e documentar soluções de software baseadas no conhecimento apropriado de teorias, modelos e técnicas.
+
+2.5. Competências e habilidades dos Egressos dos Cursos de Bacharelado em Sistemas de Informação.
+
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, os cursos de Sistemas de Informação devem prover uma formação profissional que revele, pelo menos, as habilidades e competências para:
+
+Selecionar, configurar e gerenciar tecnologias da Informação nas organizações;
+
+Atuar nas organizações públicas e privadas, para atingir os objetivos organizacionais, usando as modernas tecnologias da informação;
+
+Identificar oportunidades de mudanças e projetar soluções usando tecnologias da informação nas organizações;
+
+Comparar soluções alternativas para demandas organizacionais, incluindo a análise de risco e integração das soluções propostas;
+
+Gerenciar, manter e garantir a segurança dos sistemas de informação e da infraestrutura de Tecnologia da Informação de uma organização;
+
+Modelar e implementar soluções de Tecnologia de Informação em variados domínios de aplicação;
+
+Aplicar métodos e técnicas de negociação;
+
+Gerenciar equipes de trabalho no desenvolvimento e evolução de Sistemas de Informação;
+
+Aprender sobre novos processos de negócio;
+
+Representar os modelos mentais dos indivíduos e do coletivo na análise de requisitos de um Sistema de Informação;
+
+Aplicar conceitos, métodos, técnicas e ferramentas de gerenciamento de projetos em sua área de atuação.
+
+Entender e projetar o papel de sistemas de informação na gerência de risco e no controle organizacional.
+
+Aprimorar experiência das partes interessadas na interação com a organização incluindo aspectos de humano-computador.
+
+Identificar e projetar soluções de alto nível e opções de fornecimento de serviços, realizando estudos de viabilidade com múltiplos critérios de decisão.
+
+Fazer estudos de viabilidade financeira para projetos de tecnologia da informação
+
+Gerenciar o desempenho das aplicações e a escalabilidade dos sistemas de informação.
+
+2.6. Competências e Habilidades dos Egressos dos Cursos de Licenciatura em Computação.
+
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, os cursos de licenciatura em Computação devem prover uma formação profissional que revele, pelo menos, as habilidades e competências para:
+
+Especificar os requisitos pedagógicos na interação humano-computador;
+
+Especificar e avaliar softwares e equipamentos para aplicações educacionais e em Educação à Distância;
+
+Projetar e desenvolver softwares e hardware educacionais e para Educação à Distância em equipes interdisciplinares;
+
+Atuar junto ao corpo docente das Escolas nos níveis da Educação Básica e Técnico e suas modalidades e demais organizações no uso efetivo e adequado das tecnologias da educação;
+
+Produzir materiais didáticos com a utilização de recursos computacionais, propiciando inovações nos produtos, processos e metodologias de ensino aprendizagem;
+
+Administrar laboratórios de informática para fins educacionais;
+
+Atuar como agentes integradores promovendo a acessibilidade digital;
+
+Atuar como docente com a visão de avaliação crítica e reflexiva;
+
+Propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa.
+
+3. Projetos Pedagógicos, Organização do Curso e Conteúdos Curriculares
+
+Os Projetos Pedagógicos dos cursos da área da Computação deverão abranger, de forma detalhada, o perfil desejado do egresso, as competências, as habilidades, as atitudes, os conteúdos curriculares, a organização curricular, o estágio curricular supervisionado ou o trabalho de curso, quando couber, as atividades complementares, o acompanhamento e a avaliação, os requisitos para a obtenção do diploma e as relações que existem entre esses componentes, sem prejuízo de outros elementos que tornem o projeto pedagógico mais abrangente.
+
+Os Projetos Pedagógicos deverão conter, ainda,
+
+Concepção, justificativa e objetivos gerais e específicos do curso, contextualizados em relação às suas inserções institucional, política, geográfica e social;
+
+Condições objetivas de oferta e vocação do curso;
+
+Formas de realização da interdisciplinaridade;
+
+Modos de integração entre teoria e prática;
+
+Formas de avaliação e acompanhamento do ensino, da aprendizagem e do curso;
+
+Modos da integração entre graduação e pós-graduação, quando houver;
+
+Incentivo à pesquisa, como instrumento para as atividades de ensino e de iniciação científica;
+
+Incentivo à extensão, de forma articulada com o ensino e a pesquisa;
+
+Regulamentação das atividades relacionadas com Trabalho de Curso, quando houver, de acordo com as normas da instituição de ensino, em suas diferentes modalidades;
+
+Concepção e composição das atividades de Estágio Curricular Supervisionado, quando houver, contendo suas diferentes formas e condições de realização, observado o respectivo regulamento; e
+
+Concepção, composição e regulamentação das Atividades Complementares.
+
+Cada instituição de ensino superior deve exercitar seu potencial criativo e inovador na elaboração do seu projeto pedagógico, a partir da definição dos elementos acima referidos. O projeto pedagógico deve ser elaborado com a participação de docentes das diversas áreas envolvidas.
+
+Os conteúdos curriculares podem ser ministrados em diversas formas de organização, conforme proposta pedagógica, ressaltando as metodologias de ensino-aprendizagem, em especial as abordagens que promovam a participação, a colaboração e o envolvimento dos discentes na constituição gradual da sua autonomia nos processos de aprendizagem. Esses conteúdos podem ser organizados, em termos de carga horária e de planos de estudo, em atividades práticas e teóricas, desenvolvidas individualmente ou em grupo, na própria instituição ou em outras, envolvendo também pesquisas temáticas e bibliográficas.
+
+A organização curricular deve estabelecer, expressamente, (i) a coexistência de relações entre teoria e prática que permitirá o egresso adaptar-se, com visão crítica, às novas situações de sua área de formação, (ii) as condições para a efetiva conclusão do curso, (iii) a duração fixada do curso e o regime acadêmico a ser adotado (seriado anual, seriado semestral e sistema de créditos com matrícula por disciplina ou por módulos acadêmicos, ou outras possibilidades).
+
+Em seguida, são apresentados os conteúdos curriculares gerais e os relativos a cada um dos cursos em questão. As Instituições devem selecionar conteúdos básicos e tecnológicos, comuns a todos os cursos, listados no item seguinte, bem como conteúdos básicos e tecnológicos específicos para compor o projeto de formação, definindo autonomamente os graus de abrangência e de profundidade consistentes com o perfil, as competências e as habilidades especificadas para os egressos, com base nessas Diretrizes. Tais relações não devem ser entendidas como disciplinas obrigatórias, mas como o conjunto substantivo de conhecimentos que poderão ser selecionados pelas Instituições de Educação Superior para compor a formação dos egressos em cada curso aqui tratado.
+
+3.1. Conteúdos Curriculares da Formação Tecnológica e Básica para todos os Cursos de Bacharelado e de Licenciatura
+
+Os conteúdos tecnológicos e básicos comuns a todos os cursos são: sistemas operacionais; compiladores; engenharia de software; interação humano-computador; redes de computadores; sistemas de tempo real; inteligência artificial e computacional; processamento de imagens; computação gráfica; banco de dados; dependabilidade; segurança; multimídia; sistemas embarcados; processamento paralelo; processamento distribuído; robótica; realidade virtual; automação; novos paradigmas de computação; matemática discreta; estruturas algébricas; matemática do contínuo [cálculo, álgebra linear, equações diferenciais, geometria analítica; matemática aplicada (séries, transformadas), cálculo numérico]; teoria dos grafos; análise combinatória; probabilidade e estatística; pesquisa operacional e otimização; teoria da computação; lógica; algoritmos e complexidade; linguagens formais e autômatos; abstração e estruturas de dados; fundamentos de linguagens (sintaxe, semântica e modelos); programação; modelagem computacional; métodos formais; análise, especificação, verificação e testes de sistemas; circuitos digitais; arquitetura e organização de computadores; avaliação de desempenho; ética e legislação; empreendedorismo; computação e sociedade; filosofia; metodologia cientifica; meio ambiente; fundamentos de administração; fundamentos de economia.
+
+3.2. Conteúdos Curriculares da Formação Tecnológica e Básica dos Cursos de Bacharelado em Ciência da Computação
+
+Os conteúdos básicos e tecnológicos, específicos para os cursos de Ciência da Computação, são os seguintes: algoritmos, complexidade, computabilidade, linguagens formais e autômatos, fundamentos da programação, teoria de domínios, teoria de tipos de dados abstratos, métodos formais, verificação formal, teoria da prova, demonstração automática de teoremas, semântica formal, criptografia, teoria e modelos de concorrência, teoria de compilação, arquitetura avançadas de computadores, lógica, estruturas algébricas, matemática discreta, teoria dos grafos, teoria das categorias, modelos estatísticos e probabilísticos, métodos quantitativos da computação.
+
+3.3. Conteúdos Curriculares da Formação Tecnológica e Básica dos Cursos de Bacharelado em Engenharia de Computação
+
+Os conteúdos básicos e tecnológicos, específicos para os cursos de Engenharia de Computação, são os seguintes: projeto de sistemas digitais; projeto de circuitos integrados; microeletrônica e nanoeletrônica; processamento digital de sinais; comunicação de dados; sistemas de controle; automação de projeto; transdutores; teoria dos semicondutores; teoria eletromagnética; eletrônica digital; eletrônica analógica; circuitos elétricos; eletricidade; física.
+
+3.4. Conteúdos Curriculares da Formação Tecnológica e Básica dos Cursos de Bacharelado em Engenharia de Software.
+
+Os conteúdos básicos e tecnológicos, específicos para os cursos de Engenharia de Software, são os seguintes: paradigmas e ferramentas para a construção de software; requisitos, arquitetura e desenho de software; gerência de projetos e de configuração; evolução de software; engenharia econômica; engenharia de qualidade; engenharia de produto; ergonomia; práticas de comunicação; relações humanas de trabalho; dinâmica e psicologia de grupo; impactos sociais da tecnologia de software; empreendedorismo; modelagem, simulação e otimização em engenharia de software; tratamento e armazenamento de informação; planejamento e controle do software; estratégias de observação e experimentação; normatização e certificação de qualidade; confiabilidade de processos, produtos e serviços; probabilidade e estatística; pesquisa operacional; gestão de conhecimento, estratégica e organizacional.
+
+3.5. Conteúdos Curriculares da Formação Tecnológica e Básica dos Cursos de Bacharelado em Sistemas de Informação
+
+Os conteúdos básicos e tecnológicos, específicos para os cursos de Sistemas de Informação, são os seguintes: fundamentos de sistemas de informação; gestão de sistemas de informação; gerenciamento de dados e informação; gestão do conhecimento; planejamento, auditoria, alinhamento estratégico, segurança e risco, qualidade, gerência de projetos e gestão de processos de negócio de sistemas de informação; gestão de tecnologia da informação; infraestrutura de tecnologia da informação; inovação e novas tecnologias aplicadas a sistemas de informação das organizações; empreendedorismo na área de sistemas de informação; arquitetura da informação e da tecnologia da informação; arquitetura empresarial; teoria geral de sistemas; pesquisa operacional, modelagem de sistemas; simulação de sistemas de informação; psicologia aplicada a sistemas de informação; administração e negócios.
+
+3.6. Conteúdos Curriculares da Formação Tecnológica e Básica dos Cursos de Licenciatura em Computação
+
+Os conteúdos básicos e tecnológicos, específicos para os cursos de licenciatura em Computação, são os seguintes: educação assistida por computador; estudo e desenvolvimento de tecnologias computacionais aplicadas à educação; adaptação e personalização de sistemas de avaliação de aprendizagem assistidas por computador; produção de materiais instrucionais; aprendizagem colaborativa assistida por computador; ambientes virtuais de aprendizagem; arquiteturas de software educativo; avaliação de software e hardware educativo; inteligência artificial aplicada à educação; métodos e padrões para artefatos educacionais; métodos e processos de engenharia de software aplicados ao desenvolvimento de ambientes educacionais; modelagem cognitiva aplicada à educação; suporte computacional à aprendizagem organizacional; tecnologias wireless, móvel e ubíqua para a aprendizagem; interação humano computador de software educativo; web semântica e ontologias na educação; métricas de métodos e técnicas de educação assistida por computador; teorias da aprendizagem e do desenvolvimento humano; didática para o ensino de computação; filosofia da educação, sociologia da educação; organização e sistemas educacionais, psicologia da aprendizagem; libras; educação à distância; avaliação da aprendizagem.
+
+Para a licenciatura deverão ser incluídos conteúdos de formação pedagógica, considerando as Diretrizes Curriculares Nacionais para a formação de professores para a Educação Básica.
+
+4. Estágio Supervisionado e Trabalho de Curso
+
+Os cursos de bacharelado na área de Computação são orientados para que seus egressos assumam funções no mercado de trabalho, incluindo a área acadêmica. Algumas das funções dos egressos dos cursos de bacharelados e de licenciatura da área de Computação são predominantemente orientadas para realizar atividades de processos e outras para transformar processos, com o desenvolvimento de novas tecnologias.
+
+Para os cursos orientados para realizar atividades de processos é fortemente recomendado que seus alunos realizem estágio e conheçam, previamente, o ambiente onde são desenvolvidas as atividades de trabalho para as quais eles estão sendo preparados, como forma de iniciação à profissionalização.
+
+Para os cursos orientados para transformar processos é fortemente recomendado que seus alunos escrevam, apresentem e defendam um Trabalho de Curso, aplicando os conhecimentos adquiridos (no estado da arte) no desenvolvimento de aplicações científicas ou tecnológicas, preferencialmente inovadoras.
+
+Cabe às Instituições de Educação Superior estabelecer a obrigatoriedade ou não do Estágio Supervisionado ou do Trabalho de Curso e a definição dos respectivos regulamentos.
+Para os cursos de licenciatura em Computação, o estágio para a formação de professores para a Educação Básica é obrigatório e será cumprido de acordo com as diretrizes curriculares pertinentes.
+
+5. Atividades Complementares
+
+As atividades complementares são componentes curriculares que têm como objetivo principal enriquecer expandir o perfil do egresso com atividades que privilegiem aspectos diversos da sua formação, incluindo atividades desenvolvidas fora do ambiente acadêmico. Tais atividades constituem instrumental importante para o desenvolvimento pleno do aluno, servindo de estímulo a uma formação prática independente e interdisciplinar, sobretudo nas relações com o mundo do trabalho. Tais atividades podem ser cumpridas em diversos ambientes, como a instituição a que o estudante está vinculado, outras instituições e variados ambientes sociais, técnico-científicos ou profissionais, em modalidades tais como: formação profissional (cursos de formação profissional, experiências de trabalho ou estágios não obrigatórios), de extensão universitária junto à comunidade, de pesquisa (iniciação científica e participação em eventos técnico-científicos, publicações científicas), de ensino (programas de monitoria e tutoria ou disciplinas de outras áreas), políticas (representação discente em comissões e comitês) e de empreendedorismo e inovação (participação em Empresas Junior, incubadores ou outros mecanismos). Estas e outras atividades com as características mencionadas devem ser permanentemente incentivadas no cotidiano acadêmico, permitindo a diversificação das atividades complementares desenvolvidas pelos estudantes.
+
+6. Carga horária
+
+O Parecer CNE/CES nº 8/2007 e a Resolução CNE/CES nº 2/2007, que dispõem sobre a carga horária mínima e procedimentos relativos à integralização e duração de uma série de cursos de bacharelado, determinam o mínimo de 3000h para os cursos referidos como cursos de Computação e Informática e para os cursos de Sistemas de Informação. Em função das presentes Diretrizes Curriculares, cabe retificar estas normas com o fim de explicitar a sua aplicação aos cursos de bacharelado em Ciência da Computação, bacharelado em Sistemas de Informação, bacharelado em Engenharia de Computação e bacharelado em Engenharia de Software, em substituição à referência aos cursos de Computação e Informática. Os estudos e debates conduzidos pelo grupo de trabalho conduziram à proposta de aumentar a carga horária mínima destes cursos para 3200h, mas manter a carga horária mínima de 3000h para os cursos de bacharelado em Sistemas de Informação.
+A carga horária da licenciatura deverá cumprir o determinado pela Resolução CNE/CP nº 2/2002, associada ao Parecer CNE/CP nº 28/2001.
+
+7. Acompanhamento e avaliação
+
+A implementação e o desenvolvimento do projeto pedagógico dos cursos de graduação na área da Computação devem ser institucionalmente acompanhados e permanentemente avaliados, com vistas a verificar o atendimento dos objetivos estabelecidos nos projetos pedagógicos e permitir os ajustes necessários ao seu aperfeiçoamento.
+A avaliação do processo de ensino-aprendizagem e do próprio projeto pedagógico do curso deve ser realizada periodicamente, em conexão com as avaliações institucionais, de acordo com as metodologias e os critérios definidos pelas respectivas Instituições de Educação Superior.
+O acompanhamento dos cursos deve ser contínuo, podendo se basear em autoavaliação e no relato das experiências de seus egressos. Espera-se que os egressos dos cursos tenham os perfis, as competências, as habilidades e as atitudes estabelecidos pelas Instituições de Educação Superior, com base nessas Diretrizes. Deve-se compreender que os recém-egressos dos cursos, geralmente, têm formação profissional ainda incipiente. A profissionalização plena vem com o tempo, podendo levar anos, após a realização de diversas atividades na profissão, normalmente acompanhadas por um profissional sênior. Assim, o processo de avaliação dos cursos pode ser realimentado com informações relevantes sobre o desempenho nas atividades laborais ou por meio da comparação com egressos de mesmo perfil, de outras instituições. As avaliações dos cursos de bacharelado e de licenciatura têm como objetivo encontrar os pontos fracos dos cursos, do ponto de vista da qualidade, como também identificar as suas potencialidades. As avaliações devem ser feitas por comissões formadas por especialistas de alto nível, preferencialmente envolvendo avaliadores externos às Instituições. Os relatórios produzidos pelas comissões de avaliação devem ser claros, precisos e objetivos, permitindo às instituições, ao longo do tempo, encontrar e aplicar soluções para os pontos fracos indicados. O objetivo destas avaliações não é estabelecer hierarquias de cursos.
+Registro ainda que a emergência futura de novas alternativas de formação poderá ensejar a extensão das presentes Diretrizes.
+Concluo mencionando que as atividades promovidas pela Sociedade Brasileira de Computação no sentido de propor currículos de referência devem ser entendidas como importantes contribuições à qualidade da formação na área, mas não como imposição de modelos de adoção obrigatória, ficando assegurada ampla autonomia às Instituições de Educação Superior para formular Projetos Pedagógicos que, seguindo as presentes Diretrizes Curriculares, expressem a diversificação desejável que é a essência da concepção de Diretrizes Curriculares em oposição aos extintos Currículos Mínimos.
+
+II – VOTO DO RELATOR
+
+Voto pela aprovação das Diretrizes Curriculares Nacionais para os cursos de graduação na área da Computação, abrangendo os cursos de bacharelado em Ciência da Computação, de bacharelado em Sistemas de Informação, de bacharelado em Engenharia de Computação, de bacharelado em Engenharia de Software e de licenciatura em Computação, na forma apresentada no Projeto de Resolução em anexo, que é parte integrante deste Parecer.
+
+Brasília (DF), em 9 de março de 2012.
+
+Conselheiro Paulo Monteiro Vieira Braga Barone – Relator
+
+III – DECISÃO DA CÂMARA
+
+A Câmara de Educação Superior aprova, por unanimidade, o voto do Relator.
+Sala das Sessões, 9 de março de 2012.
+
+Conselheiro Paulo Speller – Presidente
+
+Conselheiro Gilberto Gonçalves Garcia – Vice-Presidente
+
+MINISTÉRIO DA EDUCAÇÃO
+CONSELHO NACIONAL DE EDUCAÇÃO
+CÂMARA DE EDUCAÇÃO SUPERIOR
+
+PROJETO DE RESOLUÇÃO
+
+Institui as Diretrizes Curriculares Nacionais para os cursos de graduação na área da Computação, abrangendo os cursos de bacharelado em Ciência da Computação, em Sistemas de Informação, em Engenharia de Computação, em Engenharia de Software e de licenciatura em Computação, e dá outras providências.
+
+O Presidente da Câmara de Educação Superior do Conselho Nacional de Educação, no uso de suas atribuições legais, com fundamento no art. 9º, § 2º, alínea “c”, da Lei nº 4.024, de 20 de dezembro de 1961, com a redação dada pela Lei nº 9.131, de 24 de novembro de 1995, tendo em vista as diretrizes e os princípios fixados pelos Pareceres CNE/CES nos 776/1997, 583/2001, e 67/2003, e as Diretrizes Curriculares Nacionais elaboradas pela Comissão de Especialistas de Ensino da área da Computação, e considerando o que consta do Parecer CNE/CES nº /2012, homologado por Despacho do Senhor Ministro de Estado da Educação, publicado no DOU de , de 2012, resolve:
+
+Art. 1º A presente Resolução institui as Diretrizes Curriculares para os cursos de graduação na área da Computação, abrangendo os cursos de bacharelado em Ciência da Computação, bacharelado em Sistemas de Informação, bacharelado em Engenharia de Computação, bacharelado em Engenharia de Software e licenciatura em Computação, a serem observadas pelas Instituições de Educação Superior do País.
+Parágrafo único. A formação em Engenharia de Computação poderá seguir as presentes Diretrizes ou as Diretrizes gerais para os cursos de Engenharia, estabelecidas pela Resolução CNE/CES 11/2002.
+Art. 2º O curso de graduação da área de Computação será organizado com base no correspondente projeto pedagógico, que deve enunciar o perfil desejado para o formando; as competências e habilidades desejadas; os conteúdos curriculares; a organização curricular; o estágio curricular supervisionado e o trabalho de curso (se houver); as atividades complementares; o acompanhamento e a avaliação.
+Art. 3º Os projetos pedagógicos dos cursos de graduação bacharelado em Ciência da Computação, em Sistemas de Informação, em Engenharia de Computação, em Engenharia de Software e de licenciatura em Computação, além da clara concepção do curso, com suas peculiaridades, sua matriz curricular e sua operacionalização, deverá incluir, pelo menos, os seguintes elementos:
+I - concepção, justificativa e objetivos gerais e específicos do curso, contextualizados em relação às suas inserções institucional, política, geográfica e social;
+II - condições objetivas de oferta e a vocação do curso;
+III - formas de implementação da interdisciplinaridade;
+IV - formas de integração entre teoria e prática;
+V - formas de avaliação e acompanhamento do ensino, da aprendizagem e do curso;
+VI - formas da integração entre graduação e pós-graduação, se houver;
+VII - incentivo à investigação, como instrumento para as atividades de ensino e de iniciação científica;
+VIII - Incentivo à extensão, de forma articulada com o ensino e a pesquisa;
+IX - regulamentação das atividades relacionadas com o trabalho de curso (se houver) de acordo com as normas da instituição de ensino, em suas diferentes modalidades;
+X - concepção e composição das atividades de Estágio Curricular Supervisionado, se couber, contendo suas diferentes formas e condições de realização, observado o respectivo regulamento;
+XI - concepção, composição e regulamentação das Atividades Complementares.
+Art. 4º Os cursos de bacharelado e de licenciatura da área de Computação devem assegurar a formação de profissionais dotados:
+I - de conhecimento das questões sociais, profissionais, legais, éticas, políticas e humanísticas;
+II - da compreensão do impacto da computação e suas tecnologias na sociedade no que concerne ao atendimento e à antecipação estratégica das necessidades da sociedade;
+III - de visão crítica e criativa na identificação e resolução de problemas contribuindo para o desenvolvimento de sua área;
+IV - da capacidade de atuar de forma empreendedora, abrangente e cooperativa no atendimento às demandas sociais da região onde atua, do Brasil e do mundo;
+V - de utilizar racionalmente os recursos disponíveis de forma transdisciplinar;
+VI - da compreensão das necessidades da contínua atualização e aprimoramento de suas competências e habilidades;
+VII - da capacidade de reconhecer a importância do pensamento computacional na vida cotidiana, como também sua aplicação em outros domínios e ser capaz de aplicá-lo em circunstâncias apropriadas; e
+VIII - da capacidade de atuar em um mundo de trabalho globalizado.
+§ 1º Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, espera-se que os egressos dos cursos de bacharelado em Ciência da Computação:
+I - possuam sólida formação em Ciência da Computação e Matemática que os capacitem a construir aplicativos de propósito geral, ferramentas e infraestrutura de software de sistemas de computação e de sistemas embarcados, gerar conhecimento científico e inovação e que os incentivem a estender suas competências à medida que a área se desenvolve;
+II - adquiram visão global e interdisciplinar de sistemas e entendam que esta visão transcende os detalhes de implementação dos vários componentes e os conhecimentos dos domínios de aplicação;
+III - conheçam a estrutura dos sistemas de computação e os processos envolvidos na sua construção e análise;
+IV - dominem os fundamentos teóricos da área de Computação e como eles influenciam a prática profissional;
+V - sejam capazes de agir de forma reflexiva na construção de sistemas de computação, compreendendo o seu impacto direto ou indireto sobre as pessoas e a sociedade;
+VI - sejam capazes de criar soluções, individualmente ou em equipe, para problemas complexos caracterizados por relações entre domínios de conhecimento e de aplicação;
+VII - reconheçam o caráter fundamental da inovação e da criatividade e compreendam as perspectivas de negócios e oportunidades relevantes.
+§ 2º Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, espera-se que os egressos dos cursos de Engenharia de Computação:
+I - possuam sólida formação em Ciência da Computação, Matemática e Eletrônica visando à análise e ao projeto de sistemas de computação, incluindo sistemas voltados à automação e controle de processos industriais e comerciais, sistemas e dispositivos embarcados, sistemas e equipamentos de telecomunicações e equipamentos de instrumentação eletrônica;
+II - conheçam os direitos e propriedades intelectuais inerentes à produção e à utilização de sistema de computação;
+III - sejam capazes de agir de forma reflexiva na construção de sistemas de computação, compreendendo o seu impacto direto ou indireto sobre as pessoas e a sociedade;
+IV - entendam o contexto social no qual a Engenharia é praticada, bem como os efeitos dos projetos de Engenharia na sociedade;
+V - considerem os aspectos econômicos, financeiros, de gestão e de qualidade, associados a novos produtos e organizações;
+VI - reconheçam o caráter fundamental da inovação e da criatividade e compreendam as perspectivas de negócios e oportunidades relevantes.
+§ 3º Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, espera-se dos egressos dos cursos de Engenharia de Software que:
+I - possuam sólida formação em Ciência da Computação, Matemática e Produção, visando a criação de sistemas de software de alta qualidade de maneira sistemática, controlada, eficaz e eficiente que levem em consideração questões éticas, sociais, legais e econômicas;
+II - sejam capazes de criar soluções, individualmente ou em equipe, para problemas complexos caracterizados por relações entre domínios de conhecimento e de aplicação;
+III - sejam capazes de agir de forma reflexiva na construção de software, compreendendo o seu impacto direto ou indireto sobre as pessoas e a sociedade;
+IV - entendam o contexto social no qual a construção de Software é praticada, bem como os efeitos dos projetos de software na sociedade;
+V - compreendam os aspectos econômicos e financeiros, associados a novos produtos e organizações;
+VI - reconheçam o caráter fundamental da inovação e da criatividade e compreendam as perspectivas de negócios e oportunidades relevantes.
+§ 4º Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, espera-se que os egressos dos cursos de Sistemas de Informação:
+I - possuam sólida formação em Ciência da Computação, Matemática e Administração visando o desenvolvimento e a gestão de soluções baseadas em tecnologia da informação para os processos de negócio das organizações de forma que elas atinjam efetivamente seus objetivos estratégicos de negócio;
+II - possam determinar os requisitos, desenvolver, evoluir e administrar os sistemas de informação das organizações, assegurando que elas tenham as informações e os sistemas de que necessitam para prover suporte as suas operações e obter vantagem competitiva;
+III - sejam capazes de inovar, planejar e gerenciar a infraestrutura de tecnologia da informação em organizações, bem como desenvolver e evoluir sistemas de informação para uso em processos organizacionais, departamentais e/ou individuais;
+IV - possam escolher e configurar equipamentos, sistemas e programas para a solução de problemas que envolvam a coleta, processamento e disseminação de informações;
+V - entendam o contexto, envolvendo as implicações organizacionais e sociais, no qual as soluções de sistemas de informação são desenvolvidas e implantadas;
+VI - compreendam os modelos e as áreas de negócios, atuando como agentes de mudança no contexto organizacional;
+VII - possam desenvolver pensamento sistêmico que permita analisar e entender os problemas organizacionais.
+§ 5º Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, espera-se que os egressos dos cursos de licenciatura em Computação, além de atenderem ao perfil geral previsto para os egressos dos cursos de Formação de Professores para a Educação Básica, estabelecidas por meio da Resolução CNE/CP no 1/2002:
+I - possuam sólida formação em Ciência da Computação, Matemática e Educação visando ao ensino de Ciência da Computação nos níveis da Educação Básica e Técnico e suas modalidades e a formação de usuários da infraestrutura de software dos Computadores, nas organizações;
+II - adquiram capacidade de fazer uso da interdisciplinaridade e introduzir conceitos pedagógicos no desenvolvimento de Tecnologias Educacionais, produzindo uma interação humano-computador inteligente, visando ao ensino e à aprendizagem assistidos por computador, incluindo a Educação à Distância;
+III - desenvolvam capacidade de atuar como docentes, estimulando a atitude investigativa com visão crítica e reflexiva;
+IV - sejam capazes de atuar no desenvolvimento de processos de orientação, motivação e estimulação da aprendizagem, com a seleção de plataformas computacionais adequadas às necessidades das organizações.
+Art. 5º Os cursos de bacharelado e licenciatura da área de Computação devem formar egressos que revelem pelo menos as competências e habilidades comuns para:
+I - identificar problemas que tenham solução algorítmica;
+II - conhecer os limites da computação;
+III - resolver problemas usando ambientes de programação;
+IV - tomar decisões e inovar, com base no conhecimento do funcionamento e das características técnicas de hardware e da infraestrutura de software dos sistemas de computação consciente dos aspectos éticos, legais e dos impactos ambientais decorrentes;
+V - compreender e explicar as dimensões quantitativas de um problema;
+VI - gerir a sua própria aprendizagem e desenvolvimento, incluindo a gestão de tempo e competências organizacionais;
+VII - preparar e apresentar seus trabalhos e problemas técnicos e suas soluções para audiências diversas, em formatos apropriados (oral e escrito);
+VIII - avaliar criticamente projetos de sistemas de computação;
+IX - adequar-se rapidamente às mudanças tecnológicas e aos novos ambientes de trabalho;
+X - ler textos técnicos na língua inglesa;
+XI - empreender e exercer liderança, coordenação e supervisão na sua área de atuação profissional;
+XII - ser capaz de realizar trabalho cooperativo e entender os benefícios que este pode produzir.
+§ 1º Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, os cursos de bacharelado em Ciência da Computação devem prover uma formação profissional que revele, pelo menos, as habilidades e competências para:
+I - compreender os fatos essenciais, os conceitos, os princípios e as teorias relacionadas à Ciência da Computação para o desenvolvimento de software e hardware e suas aplicações;
+II - reconhecer a importância do pensamento computacional no cotidiano e sua aplicação em circunstâncias apropriadas e em domínios diversos;
+III - identificar e gerenciar os riscos que podem estar envolvidos na operação de equipamentos de computação (incluindo os aspectos de dependabilidade e segurança);
+IV - identificar e analisar requisitos e especificações para problemas específicos e planejar estratégias para suas soluções;
+V - especificar, projetar, implementar, manter e avaliar sistemas de computação, empregando teorias, práticas e ferramentas adequadas;
+VI - conceber soluções computacionais a partir de decisões visando o equilíbrio de todos os fatores envolvidos;
+VII - empregar metodologias que visem garantir critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma solução computacional;
+VIII - analisar quanto um sistema baseado em computadores atende os critérios definidos para seu uso corrente e futuro (adequabilidade);
+IX - gerenciar projetos de desenvolvimento de sistemas computacionais;
+X - aplicar temas e princípios recorrentes, como abstração, complexidade, princípio de localidade de referência (caching), compartilhamento de recursos, segurança, concorrência, evolução de sistemas, entre outros, e reconhecer que esses temas e princípios são fundamentais à área de Ciência da Computação;
+XI - escolher e aplicar boas práticas e técnicas que conduzam ao raciocínio rigoroso no planejamento, na execução e no acompanhamento, na medição e gerenciamento geral da qualidade de sistemas computacionais;
+XII - aplicar os princípios de gerência, organização e recuperação da informação de vários tipos, incluindo texto imagem som e vídeo;
+XIII - aplicar os princípios de interação humano-computador para avaliar e construir uma grande variedade de produtos incluindo interface do usuário, páginas WEB, sistemas multimídia e sistemas móveis.
+§ 2º Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, os cursos de bacharelado em Engenharia de Computação devem prover uma formação profissional que revele, pelo menos, as habilidades e competências para:
+I - planejar, especificar, projetar, implementar, testar, verificar e validar sistemas de computação (sistemas digitais), incluindo computadores, sistemas baseados em microprocessadores, sistemas de comunicações e sistemas de automação, seguindo teorias, princípios, métodos, técnicas e procedimentos da Computação e da Engenharia;
+II - compreender, implementar e gerenciar a segurança de sistemas de computação;
+III - gerenciar projetos e manter sistemas de computação;
+IV - conhecer os direitos e propriedades intelectuais inerentes à produção e à utilização de sistemas de computação;
+V - desenvolver processadores específicos, sistemas integrados e sistemas embarcados, incluindo o desenvolvimento de software para esses sistemas;
+VI - analisar e avaliar arquiteturas de computadores, incluindo plataformas paralelas e distribuídas, como também desenvolver e otimizar software para elas;
+VII - projetar e implementar software para sistemas de comunicação;
+VIII - analisar, avaliar e selecionar plataformas de hardware e software adequados para suporte de aplicação e sistemas embarcados de tempo real;
+IX - analisar, avaliar, selecionar e configurar plataformas de hardware para o desenvolvimento e implementação de aplicações de software e serviços;
+X - projetar, implantar, administrar e gerenciar redes de computadores;
+XI - realizar estudos de viabilidade técnico-econômica.
+§ 3º Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, os cursos de bacharelado em Engenharia de Software devem prover uma formação profissional que revele, pelo menos, as habilidades e competências para:
+I - investigar, compreender e estruturar as características de domínios de aplicação em diversos contextos que levem em consideração questões éticas, sociais, legais e econômicas, individualmente e/ou em equipe;
+II - compreender e aplicar processos, técnicas e procedimentos de construção, evolução e avaliação de software;
+III - analisar e selecionar tecnologias adequadas para a construção de software;
+IV - conhecer os direitos e propriedades intelectuais inerentes à produção e utilização de software;
+V - avaliar a qualidade de sistemas de software;
+VI - integrar sistemas de software;
+VII - gerenciar projetos de software conciliando objetivos conflitantes, com limitações de custos, tempo e com análise de riscos;
+VIII - aplicar adequadamente normas técnicas;
+IX - qualificar e quantificar seu trabalho baseado em experiências e experimentos;
+X - exercer múltiplas atividades relacionadas a software como: desenvolvimento, evolução, consultoria, negociação, ensino e pesquisa;
+XI - conceber, aplicar e validar princípios, padrões e boas práticas no desenvolvimento de software;
+XII - analisar e criar modelos relacionados ao desenvolvimento de software;
+XIII - identificar novas oportunidades de negócios e desenvolver soluções inovadoras;
+XIV - identificar e analisar problemas avaliando as necessidades dos clientes, especificar os requisitos de software, projetar, desenvolver, implementar, verificar e documentar soluções de software baseadas no conhecimento apropriado de teorias, modelos e técnicas.
+§ 4º Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, os cursos de bacharelado em Sistemas de Informação devem prover uma formação profissional que revele, pelo menos, as habilidades e competências para:
+I - selecionar, configurar e gerenciar tecnologias da Informação nas organizações;
+II - atuar nas organizações públicas e privadas, para atingir os objetivos organizacionais, usando as modernas tecnologias da informação;
+III - identificar oportunidades de mudanças e projetar soluções usando tecnologias da informação nas organizações;
+IV - comparar soluções alternativas para demandas organizacionais, incluindo a análise de risco e integração das soluções propostas;
+V - gerenciar, manter e garantir a segurança dos sistemas de informação e da infraestrutura de Tecnologia da Informação de uma organização;
+VI - modelar e implementar soluções de Tecnologia de Informação em variados domínios de aplicação;
+VII - aplicar métodos e técnicas de negociação;
+VIII - gerenciar equipes de trabalho no desenvolvimento e evolução de Sistemas de Informação;
+IX - aprender sobre novos processos de negócio;
+X - representar os modelos mentais dos indivíduos e do coletivo na análise de requisitos de um Sistema de Informação;
+XI - aplicar conceitos, métodos, técnicas e ferramentas de gerenciamento de projetos em sua área de atuação.
+XII - entender e projetar o papel de sistemas de informação na gerência de risco e no controle organizacional.
+XIII - aprimorar experiência das partes interessadas na interação com a organização incluindo aspectos da relação humano-computador.
+XIV - identificar e projetar soluções de alto nível e opções de fornecimento de serviços, realizando estudos de viabilidade com múltiplos critérios de decisão.
+XV - fazer estudos de viabilidade financeira para projetos de tecnologia da informação
+XVI - gerenciar o desempenho das aplicações e a escalabilidade dos sistemas de informação.
+§ 5º Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, os cursos de licenciatura em Computação devem prover uma formação profissional que revele, pelo menos, as habilidades e competências para:
+I - especificar os requisitos pedagógicos na interação humano-computador;
+II - especificar e avaliar softwares e equipamentos para aplicação educacionais e de Educação à Distância;
+III - projetar e desenvolver softwares e hardware educacionais e de Educação à Distância em equipes interdisciplinares;
+IV - atuar junto ao corpo docente das Escolas nos níveis da Educação Básica e Técnico e suas modalidades e demais organizações no uso efetivo e adequado das tecnologias da educação;
+V - produzir materiais didáticos com a utilização de recursos computacionais, propiciando inovações nos produtos, processos e metodologias de ensino aprendizagem;
+VI - administrar laboratórios de informática para fins educacionais;
+VII - atuar como agentes integradores promovendo a acessibilidade digital;
+VIII - atuar como docente com a visão de avaliação crítica e reflexiva;
+IX - propor, coordenar e avaliar, projetos de ensino-aprendizagem assistidos por computador que propiciem a pesquisa.
+Parágrafo único. O projeto pedagógico deverá demonstrar claramente como o conjunto das atividades previstas deverá desenvolver as competências e habilidades esperadas, tendo em vista o perfil desejado para os egressos.
+Art. 6º Os currículos dos cursos de bacharelado e licenciatura da área da Computação deverão incluir conteúdos básicos e tecnológicos referentes à área da Computação, comuns a todos os cursos, bem como conteúdos básicos e tecnológicos específicos para cada curso, todos selecionados em grau de abrangência e de profundidade de forma consistente com o perfil, as competências e as habilidades especificadas para os egressos.
+§ 1º Estes conteúdos não consistem em disciplinas obrigatórias, mas no conjunto substantivo de conhecimentos que poderão ser selecionados pelas Instituições de Educação Superior para compor a formação dos egressos em cada curso em questão.
+§ 2º Os conteúdos poderão ser ministrados em diversas formas de organização, observando-se o interesse do processo da formação acadêmica e a legislação vigente, e deverão ser planejados de modo integrado, dando sentido de unidade ao projeto pedagógico do curso.
+§ 3º Para a licenciatura deverão ser incluídos conteúdos de formação pedagógica, considerando as Diretrizes Curriculares Nacionais para a formação de professores para a Educação Básica.
+§ 4º Os núcleos de conteúdos poderão ser dispostos, em termos de carga horária e de planos de estudo, em atividades práticas e teóricas, individuais ou em equipe, tais como:
+I - participação em aulas práticas, teóricas, conferências e palestras;
+II - experimentação em condições de campo ou laboratório de Estatística Aplicada;
+III - utilização de sistemas computacionais;
+IV - consultas bibliográficas;
+V - visitas técnicas;
+VI - pesquisas temáticas e bibliográficas;
+VII - projetos de pesquisa e extensão;
+VIII - estágios profissionalizantes em instituições credenciadas pelas IES;
+IX - encontros, congressos, exposições, concursos, seminários, simpósios, fóruns de discussões.
+Art. 7º O Estágio Supervisionado, realizado preferencialmente ao longo do curso, sob a supervisão de docentes da instituição formadora, e acompanhado por profissionais, tem o objetivo de consolidar e articular as competências desenvolvidas ao longo do curso por meio das demais atividades formativas, de caráter teórico ou prático, e permitir o contato do formando com situações, contextos e organizações próprios da atuação profissional.
+§ 1º As Instituições de Educação Superior deverão estabelecer a obrigatoriedade ou não do Estágio Supervisionado para os cursos de bacharelado, bem como a sua regulamentação, especificando formas de operacionalização e de avaliação.
+§ 2º O Estágio Supervisionado para a formação de professores para a Educação Básica é obrigatório para os cursos de licenciatura em Computação e será cumprido de acordo com as diretrizes curriculares pertinentes.
+Art. 8º O Trabalho de Curso será desenvolvido como atividade de síntese, integração ou aplicação de conhecimentos adquiridos de caráter científico ou tecnológico.
+Parágrafo único. As Instituições de Educação Superior deverão estabelecer a obrigatoriedade ou não do Trabalho de Curso e aprovar a sua regulamentação, especificando critérios, procedimentos e mecanismo de avaliação, além das diretrizes e técnicas relacionadas à sua elaboração.
+Art. 9º As Atividades Complementares são componentes curriculares enriquecedores e implementadores do próprio perfil do formando e deverão possibilitar o desenvolvimento de habilidades, conhecimentos, competências e atitudes do aluno, inclusive as adquiridas fora do ambiente acadêmico, que serão reconhecidas mediante processo de avaliação.
+Parágrafo único. As Atividades Complementares podem incluir atividades desenvolvidas na própria Instituição ou em outras instituições e variados ambientes sociais, técnico-científicos ou profissionais de formação profissional, incluindo experiências de trabalho, estágios não obrigatórios, extensão universitária, iniciação científica, participação em eventos técnico-científicos, programas de monitoria e tutoria, disciplinas de outras áreas, representação discente em comissões e comitês, participação em empresas juniores, incubadoras de empresas ou outras atividades de empreendedorismo e inovação.
+Art. 10. As Diretrizes Curriculares Nacionais desta Resolução deverão ser implantadas pelas Instituições de Educação Superior, obrigatoriamente, no prazo máximo de 2 (dois) anos, aos alunos ingressantes, a partir da publicação desta.
+Parágrafo único. As Instituições de Educação Superior poderão optar pela aplicação das Diretrizes Curriculares Nacionais aos demais estudantes matriculados.
+Art 11. A carga horária mínima para os cursos de graduação, bacharelados, é estabelecida pela Resolução CNE/CES nº 2/2007, que passa a vigorar com as seguintes modificações:
+I - fica suprimida, no quadro anexo, a linha Computação e Informática;
+II - são incluídas no mesmo quadro as linhas:
+
+Ciência da Computação	3.200
+Engenharia de Computação	3.200
+Engenharia de Software	3.200
+
+Parágrafo único. A carga horária mínima para os cursos de licenciatura em Computação é estabelecida pela Resolução CNE/CP nº 2/2002.
+Art. 12. Esta Resolução entrará em vigor na data de sua publicação, revogando-se as disposições em contrários.
