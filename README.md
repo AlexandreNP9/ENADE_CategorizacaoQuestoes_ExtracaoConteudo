@@ -55,3 +55,5 @@ python3 extrair-conteudo.py
 O gabarito achei mais fácil mandar direto no site do Gemini e pedir para extrair, para não gastar token e não gerar um código trabalhoso para algo tão simples. Mas tem que conferir, porque ele extraiu algumas alternativas incorretas.  
 
 O mesmo acontece com o padrão de resposta: achei mais fácil colocar no Gemini direto.
+
+Extrair a DCN do curso da prova em questão. Isso vai ser útil no passo de análise da LLM. Usei o Google AI Studio porque tem mais tokens que outras LLMs.
